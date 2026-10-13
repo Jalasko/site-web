@@ -1,0 +1,231 @@
+[
+  {
+    "slug": "fnatic",
+    "name": "Fnatic",
+    "tag": "FNC",
+    "region": "EMEA",
+    "country": "GB",
+    "color": "#FF5900",
+    "founded": 2004,
+    "coach": "elmapuddy",
+    "points": 412,
+    "achievements": [
+      { "title": "VCT LOCK//IN São Paulo", "year": 2023, "placement": "1er" },
+      { "title": "VCT Masters Tokyo", "year": 2023, "placement": "1er" },
+      { "title": "VCT Masters Toronto", "year": 2025, "placement": "2e" },
+      { "title": "VALORANT Champions Paris", "year": 2025, "placement": "2e" }
+    ],
+    "socials": { "x": "https://x.com/FNATIC", "website": "https://fnatic.com" }
+  },
+  {
+    "slug": "team-heretics",
+    "name": "Team Heretics",
+    "tag": "TH",
+    "region": "EMEA",
+    "country": "ES",
+    "color": "#C8A24A",
+    "founded": 2016,
+    "coach": "Neilzinho",
+    "points": 356,
+    "achievements": [
+      { "title": "VCT Masters Shanghai", "year": 2024, "placement": "2e" },
+      { "title": "VALORANT Champions Séoul", "year": 2024, "placement": "2e" }
+    ],
+    "socials": { "x": "https://x.com/TeamHeretics" }
+  },
+  {
+    "slug": "team-vitality",
+    "name": "Team Vitality",
+    "tag": "VIT",
+    "region": "EMEA",
+    "country": "FR",
+    "color": "#F5E400",
+    "founded": 2013,
+    "coach": "Kicks",
+    "points": 298,
+    "achievements": [{ "title": "VCT EMEA Stage 1", "year": 2025, "placement": "Top 4" }],
+    "socials": { "x": "https://x.com/TeamVitality" }
+  },
+  {
+    "slug": "paper-rex",
+    "name": "Paper Rex",
+    "tag": "PRX",
+    "region": "Pacific",
+    "country": "SG",
+    "color": "#E83F8B",
+    "founded": 2020,
+    "coach": "alecks",
+    "points": 401,
+    "achievements": [
+      { "title": "VCT Masters Toronto", "year": 2025, "placement": "1er" },
+      { "title": "VALORANT Champions Los Angeles", "year": 2023, "placement": "2e" },
+      { "title": "VCT Masters Copenhague", "year": 2022, "placement": "2e" }
+    ],
+    "socials": { "x": "https://x.com/pprxteam" }
+  },
+  {
+    "slug": "gen-g",
+    "name": "Gen.G",
+    "tag": "GEN",
+    "region": "Pacific",
+    "country": "KR",
+    "color": "#AA8A00",
+    "founded": 2017,
+    "coach": "solo",
+    "points": 344,
+    "achievements": [
+      { "title": "VCT Masters Shanghai", "year": 2024, "placement": "1er" },
+      { "title": "VCT Masters Madrid", "year": 2024, "placement": "2e" }
+    ],
+    "socials": { "x": "https://x.com/GenG" }
+  },
+  {
+    "slug": "t1",
+    "name": "T1",
+    "tag": "T1",
+    "region": "Pacific",
+    "country": "KR",
+    "color": "#E2012D",
+    "founded": 2003,
+    "coach": "Autumn",
+    "points": 330,
+    "achievements": [{ "title": "VCT Masters Bangkok", "year": 2025, "placement": "1er" }],
+    "socials": { "x": "https://x.com/T1" }
+  },
+  {
+    "slug": "sentinels",
+    "name": "Sentinels",
+    "tag": "SEN",
+    "region": "Americas",
+    "country": "US",
+    "color": "#CE0037",
+    "founded": 2018,
+    "coach": "Kaplan",
+    "points": 312,
+    "achievements": [
+      { "title": "VCT Masters Reykjavík", "year": 2021, "placement": "1er" },
+      { "title": "VCT Masters Madrid", "year": 2024, "placement": "1er" }
+    ],
+    "socials": { "x": "https://x.com/Sentinels" }
+  },
+  {
+    "slug": "nrg",
+    "name": "NRG",
+    "tag": "NRG",
+    "region": "Americas",
+    "country": "US",
+    "color": "#F25C05",
+    "founded": 2015,
+    "coach": "Chet",
+    "points": 425,
+    "achievements": [{ "title": "VALORANT Champions Paris", "year": 2025, "placement": "1er" }],
+    "socials": { "x": "https://x.com/NRGgg" }
+  },
+  {
+    "slug": "g2-esports",
+    "name": "G2 Esports",
+    "tag": "G2",
+    "region": "Americas",
+    "country": "US",
+    "color": "#F40404",
+    "founded": 2014,
+    "coach": "JoshRT",
+    "points": 371,
+    "achievements": [{ "title": "VCT Masters Bangkok", "year": 2025, "placement": "2e" }],
+    "socials": { "x": "https://x.com/G2esports" }
+  },
+  {
+    "slug": "mibr",
+    "name": "MIBR",
+    "tag": "MIBR",
+    "region": "Americas",
+    "country": "BR",
+    "color": "#1D9BF0",
+    "founded": 2003,
+    "coach": "frz",
+    "points": 290,
+    "achievements": [{ "title": "VCT Americas Stage 2", "year": 2025, "placement": "Top 3" }],
+    "socials": { "x": "https://x.com/MIBR" }
+  },
+  {
+    "slug": "loud",
+    "name": "LOUD",
+    "tag": "LOUD",
+    "region": "Americas",
+    "country": "BR",
+    "color": "#13FF00",
+    "founded": 2019,
+    "coach": "bzkA",
+    "points": 240,
+    "achievements": [
+      { "title": "VALORANT Champions Istanbul", "year": 2022, "placement": "1er" },
+      { "title": "VCT LOCK//IN São Paulo", "year": 2023, "placement": "2e" }
+    ],
+    "socials": { "x": "https://x.com/LOUDgg" }
+  },
+  {
+    "slug": "edward-gaming",
+    "name": "EDward Gaming",
+    "tag": "EDG",
+    "region": "China",
+    "country": "CN",
+    "color": "#1B1B1B",
+    "founded": 2013,
+    "coach": "AfteR",
+    "points": 362,
+    "achievements": [{ "title": "VALORANT Champions Séoul", "year": 2024, "placement": "1er" }],
+    "socials": { "x": "https://x.com/EDG_Valorant" }
+  },
+  {
+    "slug": "bilibili-gaming",
+    "name": "Bilibili Gaming",
+    "tag": "BLG",
+    "region": "China",
+    "country": "CN",
+    "color": "#00A1D6",
+    "founded": 2017,
+    "coach": "Yuicaw",
+    "points": 285,
+    "achievements": [{ "title": "VCT China Stage 1", "year": 2025, "placement": "Top 3" }],
+    "socials": {}
+  },
+  {
+    "slug": "trace-esports",
+    "name": "Trace Esports",
+    "tag": "TE",
+    "region": "China",
+    "country": "CN",
+    "color": "#7B61FF",
+    "founded": 2021,
+    "coach": "Tong",
+    "points": 214,
+    "achievements": [],
+    "socials": {}
+  },
+  {
+    "slug": "drx",
+    "name": "DRX",
+    "tag": "DRX",
+    "region": "Pacific",
+    "country": "KR",
+    "color": "#5A8DEE",
+    "founded": 2012,
+    "coach": "Termi",
+    "points": 278,
+    "achievements": [{ "title": "VALORANT Champions Istanbul", "year": 2022, "placement": "3e" }],
+    "socials": { "x": "https://x.com/DRX_VS" }
+  },
+  {
+    "slug": "karmine-corp",
+    "name": "Karmine Corp",
+    "tag": "KC",
+    "region": "EMEA",
+    "country": "FR",
+    "color": "#00B7FF",
+    "founded": 2020,
+    "coach": "Engh",
+    "points": 205,
+    "achievements": [],
+    "socials": { "x": "https://x.com/KarmineCorp" }
+  }
+]

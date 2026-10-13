@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-bg: rgb(var(--c-bg));
+  --color-surface: rgb(var(--c-surface));
+  --color-surface-2: rgb(var(--c-surface-2));
+  --color-fg: rgb(var(--c-fg));
+  --color-muted: rgb(var(--c-muted));
+  --color-line: rgb(var(--c-line));
+  --color-accent: #ff4655;
+  --color-accent-dark: #d93a48;
+  --color-teal: #3dd9b3;
+  --color-gold: #f2c14e;
+  --color-buff: #2fbf71;
+  --color-nerf: #ff4655;
+  --font-display: var(--font-bebas), "Oswald", "Arial Narrow", sans-serif;
+  --font-sans: var(--font-inter), system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+:root {
+  /* Thème clair */
+  --c-bg: 236 232 225;
+  --c-surface: 247 245 241;
+  --c-surface-2: 226 221 212;
+  --c-fg: 15 25 35;
+  --c-muted: 84 96 108;
+  --c-line: 15 25 35 / 0.14;
+  --glass: rgba(255, 255, 255, 0.6);
+  color-scheme: light;
+}
+
+.dark {
+  /* Thème sombre (par défaut) */
+  --c-bg: 15 25 35;
+  --c-surface: 23 35 47;
+  --c-surface-2: 31 45 59;
+  --c-fg: 236 232 225;
+  --c-muted: 143 155 166;
+  --c-line: 236 232 225 / 0.1;
+  --glass: rgba(23, 35, 47, 0.55);
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: rgb(var(--c-bg));
+  color: rgb(var(--c-fg));
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Fond géométrique subtil */
+.bg-grid {
+  background-image:
+    linear-gradient(rgb(var(--c-line)) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(var(--c-line)) 1px, transparent 1px);
+  background-size: 64px 64px;
+  mask-image: radial-gradient(ellipse at top, black 30%, transparent 75%);
+}
+
+@utility container-x {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+@utility h-display {
+  @apply font-display uppercase tracking-wide leading-[0.95];
+}
+@utility glass {
+  background: var(--glass);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  @apply border border-line;
+}
+@utility card {
+  @apply relative overflow-hidden border border-line bg-surface transition duration-300;
+}
+@utility card-hover {
+  @apply hover:-translate-y-1 hover:border-accent/60 hover:shadow-[0_12px_40px_-12px_rgba(255,70,85,0.45)];
+}
+/* Coin biseauté façon UI tactique */
+@utility clip-corner {
+  clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 14px 100%, 0 calc(100% - 14px));
+}
+@utility clip-btn {
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 10px), calc(100% - 10px) 100%, 0 100%);
+}
+@utility btn {
+  @apply clip-btn inline-flex items-center justify-center gap-2 px-5 py-2.5 text-sm font-semibold uppercase tracking-wider transition;
+}
+@utility btn-primary {
+  @apply btn bg-accent text-white hover:bg-accent-dark;
+}
+@utility btn-ghost {
+  @apply btn border border-line bg-surface hover:border-accent hover:text-accent;
+}
+@utility chip {
+  @apply inline-flex items-center gap-1.5 border border-line px-2.5 py-1 text-xs font-medium uppercase tracking-wider;
+}
+@utility label {
+  @apply text-[11px] font-semibold uppercase tracking-[0.18em] text-muted;
+}
+@utility input {
+  @apply w-full border border-line bg-surface px-3 py-2 text-sm outline-none transition placeholder:text-muted focus:border-accent;
+}
+@utility accent-line {
+  @apply relative pl-4 before:absolute before:left-0 before:top-1 before:bottom-1 before:w-1 before:bg-accent;
+}
+
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: none; }
+}
+.animate-fade-up {
+  animation: fade-up 0.5s ease-out both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
+
+::selection { background: #ff4655; color: #fff; }
+
+/* Évite que le contenu long (texte tronqué, tableaux) n'élargisse les colonnes de grille. */
+@layer base {
+  .grid > * {
+    min-width: 0;
+  }
+}

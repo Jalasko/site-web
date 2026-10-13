@@ -1,0 +1,49 @@
+[
+  {
+    "version": "13.07",
+    "date": "2026-10-07",
+    "title": "Patch 13.07 — Ajustements avant Champions",
+    "summary": "Un patch d'équilibrage ciblé sur les duellistes à forte mobilité et sur la Phantom, avec un retour d'Icebox en rotation non classée.",
+    "highlights": ["Nerf de la mobilité de Neon", "Buff de la Phantom à longue portée", "Le recharge d'Omen accéléré"],
+    "changes": [
+      { "category": "Agents", "target": "Neon", "type": "nerf", "details": ["Vitesse de sprint (E) : 9,11 m/s → 8,8 m/s", "Glissade : ne se recharge plus après 2 kills"] },
+      { "category": "Agents", "target": "Omen", "type": "buff", "details": ["Voile sombre (E) : temps de recharge 40 s → 35 s"] },
+      { "category": "Agents", "target": "Clove", "type": "nerf", "details": ["Ingérence (Q) : durée de désintégration 6 s → 5 s"] },
+      { "category": "Agents", "target": "Breach", "type": "buff", "details": ["Secousse sismique (E) : délai avant impact réduit de 0,1 s"] },
+      { "category": "Armes", "target": "Phantom", "type": "buff", "details": ["Dégâts à la tête au-delà de 30 m : 124 → 128"] },
+      { "category": "Armes", "target": "Outlaw", "type": "nerf", "details": ["Prix : 2 400 → 2 500 crédits"] },
+      { "category": "Cartes", "target": "Icebox", "type": "ajustement", "details": ["Retour dans la rotation non classée", "Mid tube élargi pour faciliter la rotation"] },
+      { "category": "Systèmes", "target": "Classé", "type": "correctif", "details": ["Correction d'un bug qui affichait un RR erroné après une remake"] }
+    ]
+  },
+  {
+    "version": "13.06",
+    "date": "2026-09-16",
+    "title": "Patch 13.06 — Sentinelles sous surveillance",
+    "summary": "Les sentinelles reçoivent des ajustements pour réduire la frustration des setups passifs, tandis que les initiateurs gagnent en fiabilité.",
+    "highlights": ["Nerf de la portée des tourelles de Killjoy", "Buff du drone de Fade", "Nouveau mode Swiftplay classé"],
+    "changes": [
+      { "category": "Agents", "target": "Killjoy", "type": "nerf", "details": ["Tourelle (E) : champ de vision 100° → 90°", "Nanoessaim (C) : dégâts 45/s → 40/s"] },
+      { "category": "Agents", "target": "Fade", "type": "buff", "details": ["Rôdeur (C) : durée 6 s → 7 s"] },
+      { "category": "Agents", "target": "Vyse", "type": "ajustement", "details": ["Fleur d'acier (X) : rayon réduit, durée augmentée"] },
+      { "category": "Agents", "target": "Sova", "type": "nerf", "details": ["Drone (C) : coût 400 → 450 crédits"] },
+      { "category": "Armes", "target": "Sheriff", "type": "nerf", "details": ["Précision du premier tir en mouvement réduite"] },
+      { "category": "Mode de jeu", "target": "Swiftplay", "type": "nouveau", "details": ["Mode Swiftplay classé disponible en bêta dans toutes les régions"] }
+    ]
+  },
+  {
+    "version": "13.05",
+    "date": "2026-08-26",
+    "title": "Patch 13.05 — Corrode retravaillée",
+    "summary": "Corrode reçoit sa première mise à jour majeure, et les mitraillettes gagnent un peu de puissance en force-buy.",
+    "highlights": ["Refonte du site B de Corrode", "Buff de la Spectre", "Nerf de la vitesse de rotation sur Abyss"],
+    "changes": [
+      { "category": "Cartes", "target": "Corrode", "type": "ajustement", "details": ["Site B : nouvelle couverture centrale", "Suppression d'un angle en hauteur côté défense"] },
+      { "category": "Cartes", "target": "Abyss", "type": "nerf", "details": ["Les cordes du Mid sont plus lentes à grimper"] },
+      { "category": "Armes", "target": "Spectre", "type": "buff", "details": ["Dégâts au corps à 15-20 m : 22 → 24"] },
+      { "category": "Armes", "target": "Stinger", "type": "buff", "details": ["Prix : 1 100 → 1 000 crédits"] },
+      { "category": "Agents", "target": "Jett", "type": "ajustement", "details": ["Rafale de vent (E) : fenêtre d'activation 1 s → 0,85 s"] },
+      { "category": "Agents", "target": "Waylay", "type": "buff", "details": ["Point de rappel : durée 6 s → 7 s"] }
+    ]
+  }
+]

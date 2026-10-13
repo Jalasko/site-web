@@ -1,0 +1,198 @@
+{
+  "astra": {
+    "Grenade": "150 ¤",
+    "Ability1": "150 ¤",
+    "Ability2": "Gratuit (étoiles)",
+    "Ultimate": "7 points",
+    "origin": "Ghana"
+  },
+  "breach": {
+    "Grenade": "200 ¤",
+    "Ability1": "250 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "9 points",
+    "origin": "Suède"
+  },
+  "brimstone": {
+    "Grenade": "200 ¤",
+    "Ability1": "250 ¤",
+    "Ability2": "Gratuit ×3",
+    "Ultimate": "8 points",
+    "origin": "États-Unis"
+  },
+  "chamber": {
+    "Grenade": "200 ¤",
+    "Ability1": "150 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "France"
+  },
+  "clove": {
+    "Grenade": "200 ¤",
+    "Ability1": "100 ¤",
+    "Ability2": "Gratuit ×2",
+    "Ultimate": "8 points",
+    "origin": "Écosse"
+  },
+  "cypher": {
+    "Grenade": "100 ¤ ×2",
+    "Ability1": "100 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "6 points",
+    "origin": "Maroc"
+  },
+  "deadlock": {
+    "Grenade": "200 ¤",
+    "Ability1": "200 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "7 points",
+    "origin": "Norvège"
+  },
+  "fade": {
+    "Grenade": "200 ¤",
+    "Ability1": "250 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Turquie"
+  },
+  "gekko": {
+    "Grenade": "300 ¤",
+    "Ability1": "250 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "États-Unis"
+  },
+  "harbor": {
+    "Grenade": "150 ¤",
+    "Ability1": "250 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "7 points",
+    "origin": "Inde"
+  },
+  "iso": {
+    "Grenade": "200 ¤",
+    "Ability1": "200 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "7 points",
+    "origin": "Chine"
+  },
+  "jett": {
+    "Grenade": "200 ¤ ×2",
+    "Ability1": "150 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Corée du Sud"
+  },
+  "kay-o": {
+    "Grenade": "200 ¤",
+    "Ability1": "250 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Terre alternative"
+  },
+  "killjoy": {
+    "Grenade": "200 ¤",
+    "Ability1": "200 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "9 points",
+    "origin": "Allemagne"
+  },
+  "neon": {
+    "Grenade": "300 ¤",
+    "Ability1": "200 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Philippines"
+  },
+  "omen": {
+    "Grenade": "300 ¤",
+    "Ability1": "250 ¤",
+    "Ability2": "150 ¤ ×2",
+    "Ultimate": "7 points",
+    "origin": "Inconnue"
+  },
+  "phoenix": {
+    "Grenade": "200 ¤",
+    "Ability1": "250 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "6 points",
+    "origin": "Royaume-Uni"
+  },
+  "raze": {
+    "Grenade": "400 ¤",
+    "Ability1": "200 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "9 points",
+    "origin": "Brésil"
+  },
+  "reyna": {
+    "Grenade": "250 ¤ ×2",
+    "Ability1": "Orbe d'âme",
+    "Ability2": "Orbe d'âme",
+    "Ultimate": "7 points",
+    "origin": "Mexique"
+  },
+  "sage": {
+    "Grenade": "300 ¤",
+    "Ability1": "200 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Chine"
+  },
+  "skye": {
+    "Grenade": "100 ¤",
+    "Ability1": "250 ¤",
+    "Ability2": "100 ¤ ×2",
+    "Ultimate": "8 points",
+    "origin": "Australie"
+  },
+  "sova": {
+    "Grenade": "400 ¤",
+    "Ability1": "150 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Russie"
+  },
+  "tejo": {
+    "Grenade": "300 ¤",
+    "Ability1": "300 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "9 points",
+    "origin": "Colombie"
+  },
+  "veto": {
+    "Grenade": "200 ¤",
+    "Ability1": "200 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Inconnue"
+  },
+  "viper": {
+    "Grenade": "200 ¤",
+    "Ability1": "Gratuit",
+    "Ability2": "Gratuit",
+    "Ultimate": "9 points",
+    "origin": "États-Unis"
+  },
+  "vyse": {
+    "Grenade": "150 ¤",
+    "Ability1": "200 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Inconnue"
+  },
+  "waylay": {
+    "Grenade": "200 ¤",
+    "Ability1": "200 ¤",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Thaïlande"
+  },
+  "yoru": {
+    "Grenade": "250 ¤",
+    "Ability1": "250 ¤ ×2",
+    "Ability2": "Gratuit",
+    "Ultimate": "8 points",
+    "origin": "Japon"
+  }
+}

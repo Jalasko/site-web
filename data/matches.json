@@ -1,0 +1,216 @@
+[
+  {
+    "id": "c26-qf1",
+    "event": "VALORANT Champions 2026",
+    "stage": "Quarts de finale",
+    "date": "2026-10-10T09:00:00Z",
+    "teamA": "nrg",
+    "teamB": "gen-g",
+    "status": "terminé",
+    "bestOf": 3,
+    "scoreA": 2,
+    "scoreB": 1,
+    "maps": [
+      {
+        "map": "Lotus",
+        "scoreA": 13,
+        "scoreB": 9
+      },
+      {
+        "map": "Haven",
+        "scoreA": 10,
+        "scoreB": 13
+      },
+      {
+        "map": "Ascent",
+        "scoreA": 13,
+        "scoreB": 11
+      }
+    ]
+  },
+  {
+    "id": "c26-qf2",
+    "event": "VALORANT Champions 2026",
+    "stage": "Quarts de finale",
+    "date": "2026-10-10T12:00:00Z",
+    "teamA": "paper-rex",
+    "teamB": "team-heretics",
+    "status": "terminé",
+    "bestOf": 3,
+    "scoreA": 2,
+    "scoreB": 0,
+    "maps": [
+      {
+        "map": "Bind",
+        "scoreA": 13,
+        "scoreB": 7
+      },
+      {
+        "map": "Sunset",
+        "scoreA": 14,
+        "scoreB": 12
+      }
+    ]
+  },
+  {
+    "id": "c26-qf3",
+    "event": "VALORANT Champions 2026",
+    "stage": "Quarts de finale",
+    "date": "2026-10-11T09:00:00Z",
+    "teamA": "fnatic",
+    "teamB": "g2-esports",
+    "status": "terminé",
+    "bestOf": 3,
+    "scoreA": 1,
+    "scoreB": 2,
+    "maps": [
+      {
+        "map": "Corrode",
+        "scoreA": 13,
+        "scoreB": 10
+      },
+      {
+        "map": "Abyss",
+        "scoreA": 8,
+        "scoreB": 13
+      },
+      {
+        "map": "Lotus",
+        "scoreA": 11,
+        "scoreB": 13
+      }
+    ]
+  },
+  {
+    "id": "c26-qf4",
+    "event": "VALORANT Champions 2026",
+    "stage": "Quarts de finale",
+    "date": "2026-10-13T09:00:00Z",
+    "teamA": "edward-gaming",
+    "teamB": "t1",
+    "status": "en direct",
+    "bestOf": 3,
+    "scoreA": 1,
+    "scoreB": 0,
+    "maps": [
+      {
+        "map": "Haven",
+        "scoreA": 13,
+        "scoreB": 11
+      }
+    ]
+  },
+  {
+    "id": "c26-gs1",
+    "event": "VALORANT Champions 2026",
+    "stage": "Phase de groupes",
+    "date": "2026-10-05T12:00:00Z",
+    "teamA": "sentinels",
+    "teamB": "mibr",
+    "status": "terminé",
+    "bestOf": 3,
+    "scoreA": 0,
+    "scoreB": 2,
+    "maps": [
+      {
+        "map": "Ascent",
+        "scoreA": 9,
+        "scoreB": 13
+      },
+      {
+        "map": "Bind",
+        "scoreA": 11,
+        "scoreB": 13
+      }
+    ]
+  },
+  {
+    "id": "c26-gs2",
+    "event": "VALORANT Champions 2026",
+    "stage": "Phase de groupes",
+    "date": "2026-10-04T09:00:00Z",
+    "teamA": "bilibili-gaming",
+    "teamB": "team-vitality",
+    "status": "terminé",
+    "bestOf": 3,
+    "scoreA": 2,
+    "scoreB": 1,
+    "maps": [
+      {
+        "map": "Sunset",
+        "scoreA": 13,
+        "scoreB": 6
+      },
+      {
+        "map": "Lotus",
+        "scoreA": 12,
+        "scoreB": 14
+      },
+      {
+        "map": "Corrode",
+        "scoreA": 13,
+        "scoreB": 8
+      }
+    ]
+  },
+  {
+    "id": "c26-sf1",
+    "event": "VALORANT Champions 2026",
+    "stage": "Demi-finales",
+    "date": "2026-10-17T10:00:00Z",
+    "teamA": "nrg",
+    "teamB": "paper-rex",
+    "status": "à venir",
+    "bestOf": 3
+  },
+  {
+    "id": "c26-sf2",
+    "event": "VALORANT Champions 2026",
+    "stage": "Demi-finales",
+    "date": "2026-10-18T10:00:00Z",
+    "teamA": "g2-esports",
+    "teamB": "TBD",
+    "status": "à venir",
+    "bestOf": 3
+  },
+  {
+    "id": "c26-lb1",
+    "event": "VALORANT Champions 2026",
+    "stage": "Lower bracket — Tour 2",
+    "date": "2026-10-15T09:00:00Z",
+    "teamA": "fnatic",
+    "teamB": "gen-g",
+    "status": "à venir",
+    "bestOf": 3
+  },
+  {
+    "id": "c26-lb2",
+    "event": "VALORANT Champions 2026",
+    "stage": "Lower bracket — Tour 2",
+    "date": "2026-10-15T12:00:00Z",
+    "teamA": "team-heretics",
+    "teamB": "TBD",
+    "status": "à venir",
+    "bestOf": 3
+  },
+  {
+    "id": "c26-gf",
+    "event": "VALORANT Champions 2026",
+    "stage": "Grande finale",
+    "date": "2026-10-25T11:00:00Z",
+    "teamA": "TBD",
+    "teamB": "TBD",
+    "status": "à venir",
+    "bestOf": 5
+  },
+  {
+    "id": "kc-off",
+    "event": "Red Bull Home Ground 2026",
+    "stage": "Phase de groupes",
+    "date": "2026-11-14T15:00:00Z",
+    "teamA": "karmine-corp",
+    "teamB": "team-vitality",
+    "status": "à venir",
+    "bestOf": 3
+  }
+]

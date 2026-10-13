@@ -1,0 +1,4116 @@
+[
+  {
+    "slug": "boaster",
+    "ign": "Boaster",
+    "realName": "Jake Howlett",
+    "country": "GB",
+    "team": "fnatic",
+    "role": "Contrôleur",
+    "mainAgents": [
+      {
+        "agent": "Astra",
+        "pickRate": 38
+      },
+      {
+        "agent": "Omen",
+        "pickRate": 28
+      },
+      {
+        "agent": "Viper",
+        "pickRate": 24
+      }
+    ],
+    "stats": {
+      "rating": 0.99,
+      "acs": 192,
+      "kd": 0.99,
+      "adr": 139.6,
+      "kast": 77,
+      "hs": 26,
+      "fk": 1.4,
+      "fd": 1.4
+    },
+    "career": [
+      {
+        "team": "fnatic",
+        "from": "2021-05"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT LOCK//IN São Paulo",
+        "year": 2023,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Tokyo",
+        "year": 2023,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Paris",
+        "year": 2025,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/boaster",
+      "x": "https://x.com/boaster",
+      "youtube": "https://www.youtube.com/@boaster"
+    },
+    "recentMatches": [
+      {
+        "opponent": "team-heretics",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Astra",
+        "acs": 153,
+        "kda": "25/15/4"
+      },
+      {
+        "opponent": "team-heretics",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Astra",
+        "acs": 237,
+        "kda": "19/18/9"
+      },
+      {
+        "opponent": "team-heretics",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Omen",
+        "acs": 243,
+        "kda": "19/15/4"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Astra",
+        "acs": 181,
+        "kda": "20/18/8"
+      },
+      {
+        "opponent": "team-heretics",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Astra",
+        "acs": 163,
+        "kda": "17/11/7"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;1;h;0;f;0;0l;4;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.845,
+      "resolution": "1920x1080",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "chronicle",
+    "ign": "Chronicle",
+    "realName": "Timofey Khromov",
+    "country": "RU",
+    "team": "fnatic",
+    "role": "Flex",
+    "mainAgents": [
+      {
+        "agent": "Viper",
+        "pickRate": 60
+      },
+      {
+        "agent": "Fade",
+        "pickRate": 20
+      },
+      {
+        "agent": "Breach",
+        "pickRate": 11
+      }
+    ],
+    "stats": {
+      "rating": 1.07,
+      "acs": 210.4,
+      "kd": 1.17,
+      "adr": 133.6,
+      "kast": 78,
+      "hs": 28,
+      "fk": 1.9,
+      "fd": 1.3
+    },
+    "career": [
+      {
+        "team": "fnatic",
+        "from": "2023-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT LOCK//IN São Paulo",
+        "year": 2023,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Tokyo",
+        "year": 2023,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Paris",
+        "year": 2025,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/chronicle",
+      "x": "https://x.com/chronicle"
+    },
+    "recentMatches": [
+      {
+        "opponent": "team-vitality",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Viper",
+        "acs": 269,
+        "kda": "21/14/4"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Viper",
+        "acs": 262,
+        "kda": "23/13/9"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Fade",
+        "acs": 251,
+        "kda": "26/13/10"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Fade",
+        "acs": 167,
+        "kda": "16/13/5"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Fade",
+        "acs": 174,
+        "kda": "18/10/9"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;1;h;0;f;0;0l;3;0t;2;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.301,
+      "resolution": "1920x1080",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "alfajer",
+    "ign": "Alfajer",
+    "realName": "Emir Ali Beder",
+    "country": "TR",
+    "team": "fnatic",
+    "role": "Sentinelle",
+    "mainAgents": [
+      {
+        "agent": "Killjoy",
+        "pickRate": 56
+      },
+      {
+        "agent": "Cypher",
+        "pickRate": 24
+      },
+      {
+        "agent": "Vyse",
+        "pickRate": 15
+      }
+    ],
+    "stats": {
+      "rating": 1.04,
+      "acs": 189.3,
+      "kd": 1.15,
+      "adr": 131.7,
+      "kast": 72,
+      "hs": 28,
+      "fk": 1.6,
+      "fd": 1.8
+    },
+    "career": [
+      {
+        "team": "fnatic",
+        "from": "2022-07"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT LOCK//IN São Paulo",
+        "year": 2023,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Tokyo",
+        "year": 2023,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Paris",
+        "year": 2025,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/alfajer",
+      "x": "https://x.com/alfajer",
+      "youtube": "https://www.youtube.com/@alfajer"
+    },
+    "recentMatches": [
+      {
+        "opponent": "team-heretics",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Killjoy",
+        "acs": 212,
+        "kda": "16/16/4"
+      },
+      {
+        "opponent": "team-heretics",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Killjoy",
+        "acs": 245,
+        "kda": "23/11/6"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Killjoy",
+        "acs": 184,
+        "kda": "20/15/7"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Killjoy",
+        "acs": 178,
+        "kda": "17/14/3"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Killjoy",
+        "acs": 195,
+        "kda": "15/19/11"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;3;0t;2;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.805,
+      "resolution": "1600x1080",
+      "mouse": "Logitech G Pro X Superlight 2"
+    }
+  },
+  {
+    "slug": "kaajak",
+    "ign": "kaajak",
+    "realName": "Kajetan Haremski",
+    "country": "PL",
+    "team": "fnatic",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Raze",
+        "pickRate": 53
+      },
+      {
+        "agent": "Yoru",
+        "pickRate": 30
+      },
+      {
+        "agent": "Neon",
+        "pickRate": 5
+      }
+    ],
+    "stats": {
+      "rating": 1.11,
+      "acs": 239.8,
+      "kd": 1.09,
+      "adr": 161,
+      "kast": 69,
+      "hs": 28,
+      "fk": 3.4,
+      "fd": 3
+    },
+    "career": [
+      {
+        "team": "fnatic",
+        "from": "2025-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Paris",
+        "year": 2025,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/kaajak",
+      "x": "https://x.com/kaajak",
+      "youtube": "https://www.youtube.com/@kaajak"
+    },
+    "recentMatches": [
+      {
+        "opponent": "team-vitality",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Yoru",
+        "acs": 240,
+        "kda": "15/13/9"
+      },
+      {
+        "opponent": "team-heretics",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Raze",
+        "acs": 253,
+        "kda": "25/15/7"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Yoru",
+        "acs": 246,
+        "kda": "17/14/4"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Raze",
+        "acs": 240,
+        "kda": "21/17/4"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Raze",
+        "acs": 230,
+        "kda": "25/15/2"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;3;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.398,
+      "resolution": "1920x1080",
+      "mouse": "Finalmouse UltralightX"
+    }
+  },
+  {
+    "slug": "crashies",
+    "ign": "crashies",
+    "realName": "Austin Roberts",
+    "country": "US",
+    "team": "fnatic",
+    "role": "Initiateur",
+    "mainAgents": [
+      {
+        "agent": "Sova",
+        "pickRate": 39
+      },
+      {
+        "agent": "Fade",
+        "pickRate": 28
+      },
+      {
+        "agent": "KAY/O",
+        "pickRate": 24
+      }
+    ],
+    "stats": {
+      "rating": 1.13,
+      "acs": 196.8,
+      "kd": 1.18,
+      "adr": 144.3,
+      "kast": 75,
+      "hs": 24,
+      "fk": 2.3,
+      "fd": 1.3
+    },
+    "career": [
+      {
+        "team": "fnatic",
+        "from": "2025-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Paris",
+        "year": 2025,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/crashies",
+      "x": "https://x.com/crashies",
+      "youtube": "https://www.youtube.com/@crashies"
+    },
+    "recentMatches": [
+      {
+        "opponent": "team-vitality",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Fade",
+        "acs": 215,
+        "kda": "19/15/6"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Sova",
+        "acs": 255,
+        "kda": "23/18/12"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Sova",
+        "acs": 155,
+        "kda": "18/13/12"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Sova",
+        "acs": 153,
+        "kda": "21/19/9"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Sova",
+        "acs": 234,
+        "kda": "16/14/9"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;3;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.336,
+      "resolution": "1920x1080",
+      "mouse": "Razer Viper V3 Pro"
+    }
+  },
+  {
+    "slug": "miniboo",
+    "ign": "MiniBoo",
+    "realName": "Dominykas Lukaševičius",
+    "country": "LT",
+    "team": "team-heretics",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Raze",
+        "pickRate": 43
+      },
+      {
+        "agent": "Jett",
+        "pickRate": 27
+      },
+      {
+        "agent": "Neon",
+        "pickRate": 25
+      }
+    ],
+    "stats": {
+      "rating": 1.22,
+      "acs": 239.8,
+      "kd": 1.12,
+      "adr": 160.8,
+      "kast": 71,
+      "hs": 26,
+      "fk": 4.5,
+      "fd": 1.3
+    },
+    "career": [
+      {
+        "team": "team-heretics",
+        "from": "2023-10"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Shanghai",
+        "year": 2024,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Séoul",
+        "year": 2024,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/miniboo",
+      "x": "https://x.com/miniboo"
+    },
+    "recentMatches": [
+      {
+        "opponent": "team-vitality",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Jett",
+        "acs": 232,
+        "kda": "16/17/10"
+      },
+      {
+        "opponent": "fnatic",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Raze",
+        "acs": 195,
+        "kda": "14/14/2"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 298,
+        "kda": "23/11/11"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Raze",
+        "acs": 254,
+        "kda": "22/13/7"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Raze",
+        "acs": 269,
+        "kda": "16/17/5"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;5;h;0;f;0;0l;3;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 1600,
+      "sens": 0.202,
+      "resolution": "1600x1080",
+      "mouse": "Lamzu Maya X"
+    }
+  },
+  {
+    "slug": "boo",
+    "ign": "Boo",
+    "realName": "Ričardas Lukaševičius",
+    "country": "LT",
+    "team": "team-heretics",
+    "role": "Contrôleur",
+    "mainAgents": [
+      {
+        "agent": "Omen",
+        "pickRate": 56
+      },
+      {
+        "agent": "Clove",
+        "pickRate": 26
+      },
+      {
+        "agent": "Viper",
+        "pickRate": 10
+      }
+    ],
+    "stats": {
+      "rating": 0.95,
+      "acs": 210,
+      "kd": 1.06,
+      "adr": 125.6,
+      "kast": 78,
+      "hs": 24,
+      "fk": 1.6,
+      "fd": 1.5
+    },
+    "career": [
+      {
+        "team": "team-heretics",
+        "from": "2023-10"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Shanghai",
+        "year": 2024,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Séoul",
+        "year": 2024,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/boo",
+      "x": "https://x.com/boo",
+      "youtube": "https://www.youtube.com/@boo"
+    },
+    "recentMatches": [
+      {
+        "opponent": "karmine-corp",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Omen",
+        "acs": 211,
+        "kda": "16/19/10"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Omen",
+        "acs": 250,
+        "kda": "21/12/9"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Omen",
+        "acs": 222,
+        "kda": "24/19/11"
+      },
+      {
+        "opponent": "fnatic",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Omen",
+        "acs": 235,
+        "kda": "23/18/6"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Omen",
+        "acs": 203,
+        "kda": "21/18/5"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;5;h;0;f;0;0l;3;0t;2;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.404,
+      "resolution": "1920x1080",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "wo0t",
+    "ign": "Wo0t",
+    "realName": "Mert Alkan",
+    "country": "TR",
+    "team": "team-heretics",
+    "role": "Flex",
+    "mainAgents": [
+      {
+        "agent": "Viper",
+        "pickRate": 41
+      },
+      {
+        "agent": "Cypher",
+        "pickRate": 34
+      },
+      {
+        "agent": "Gekko",
+        "pickRate": 19
+      }
+    ],
+    "stats": {
+      "rating": 1.15,
+      "acs": 221.3,
+      "kd": 1.08,
+      "adr": 130.2,
+      "kast": 72,
+      "hs": 24,
+      "fk": 2.1,
+      "fd": 2.6
+    },
+    "career": [
+      {
+        "team": "team-heretics",
+        "from": "2023-10"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Shanghai",
+        "year": 2024,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Séoul",
+        "year": 2024,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/wo0t",
+      "x": "https://x.com/wo0t"
+    },
+    "recentMatches": [
+      {
+        "opponent": "fnatic",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Viper",
+        "acs": 266,
+        "kda": "18/14/10"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Viper",
+        "acs": 268,
+        "kda": "15/10/7"
+      },
+      {
+        "opponent": "fnatic",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Viper",
+        "acs": 280,
+        "kda": "23/18/7"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Cypher",
+        "acs": 201,
+        "kda": "25/19/8"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Cypher",
+        "acs": 256,
+        "kda": "15/20/3"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;1;h;0;f;0;0l;2;0t;1;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 1600,
+      "sens": 0.147,
+      "resolution": "1600x1080",
+      "mouse": "Logitech G Pro X Superlight 2"
+    }
+  },
+  {
+    "slug": "derke",
+    "ign": "Derke",
+    "realName": "Nikita Sirmitev",
+    "country": "FI",
+    "team": "team-vitality",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Jett",
+        "pickRate": 42
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 29
+      },
+      {
+        "agent": "Yoru",
+        "pickRate": 23
+      }
+    ],
+    "stats": {
+      "rating": 1.17,
+      "acs": 255.3,
+      "kd": 1.18,
+      "adr": 153.5,
+      "kast": 72,
+      "hs": 23,
+      "fk": 3.6,
+      "fd": 3.5
+    },
+    "career": [
+      {
+        "team": "fnatic",
+        "from": "2021-02",
+        "to": "2024-12"
+      },
+      {
+        "team": "team-vitality",
+        "from": "2025-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT EMEA Stage 1",
+        "year": 2025,
+        "placement": "Top 4"
+      },
+      {
+        "title": "VCT LOCK//IN São Paulo",
+        "year": 2023,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Tokyo",
+        "year": 2023,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/derke",
+      "x": "https://x.com/derke"
+    },
+    "recentMatches": [
+      {
+        "opponent": "team-heretics",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Jett",
+        "acs": 275,
+        "kda": "15/16/10"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Raze",
+        "acs": 233,
+        "kda": "25/16/6"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 248,
+        "kda": "12/18/4"
+      },
+      {
+        "opponent": "fnatic",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Raze",
+        "acs": 252,
+        "kda": "25/13/11"
+      },
+      {
+        "opponent": "karmine-corp",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Jett",
+        "acs": 274,
+        "kda": "20/10/8"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;0;c;8;u;00FFFFFF;h;0;f;0;0l;3;0t;2;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.725,
+      "resolution": "1920x1080",
+      "mouse": "Finalmouse UltralightX"
+    }
+  },
+  {
+    "slug": "f0rsaken",
+    "ign": "f0rsakeN",
+    "realName": "Jason Susanto",
+    "country": "ID",
+    "team": "paper-rex",
+    "role": "Flex",
+    "mainAgents": [
+      {
+        "agent": "Yoru",
+        "pickRate": 54
+      },
+      {
+        "agent": "Cypher",
+        "pickRate": 23
+      },
+      {
+        "agent": "Harbor",
+        "pickRate": 16
+      }
+    ],
+    "stats": {
+      "rating": 1.09,
+      "acs": 223.1,
+      "kd": 1.17,
+      "adr": 149.4,
+      "kast": 74,
+      "hs": 27,
+      "fk": 2.6,
+      "fd": 1.5
+    },
+    "career": [
+      {
+        "team": "paper-rex",
+        "from": "2021-02"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "1er"
+      },
+      {
+        "title": "VALORANT Champions Los Angeles",
+        "year": 2023,
+        "placement": "2e"
+      },
+      {
+        "title": "VCT Masters Copenhague",
+        "year": 2022,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/f0rsaken",
+      "x": "https://x.com/f0rsaken"
+    },
+    "recentMatches": [
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Yoru",
+        "acs": 269,
+        "kda": "17/13/6"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Yoru",
+        "acs": 248,
+        "kda": "19/17/10"
+      },
+      {
+        "opponent": "drx",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Yoru",
+        "acs": 217,
+        "kda": "13/13/4"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Cypher",
+        "acs": 267,
+        "kda": "23/14/8"
+      },
+      {
+        "opponent": "drx",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Yoru",
+        "acs": 248,
+        "kda": "19/16/6"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;0;c;8;u;00FFFFFF;h;0;f;0;0l;2;0t;2;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.3,
+      "resolution": "1280x960",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "something",
+    "ign": "something",
+    "realName": "Ilia Petrov",
+    "country": "RU",
+    "team": "paper-rex",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Jett",
+        "pickRate": 58
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 27
+      },
+      {
+        "agent": "Neon",
+        "pickRate": 7
+      }
+    ],
+    "stats": {
+      "rating": 1.13,
+      "acs": 248.7,
+      "kd": 1.34,
+      "adr": 148.6,
+      "kast": 70,
+      "hs": 29,
+      "fk": 4.2,
+      "fd": 2.1
+    },
+    "career": [
+      {
+        "team": "paper-rex",
+        "from": "2022-12"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "1er"
+      },
+      {
+        "title": "VALORANT Champions Los Angeles",
+        "year": 2023,
+        "placement": "2e"
+      },
+      {
+        "title": "VCT Masters Copenhague",
+        "year": 2022,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/something",
+      "x": "https://x.com/something"
+    },
+    "recentMatches": [
+      {
+        "opponent": "drx",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Raze",
+        "acs": 233,
+        "kda": "23/20/11"
+      },
+      {
+        "opponent": "t1",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Jett",
+        "acs": 268,
+        "kda": "14/10/9"
+      },
+      {
+        "opponent": "t1",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Raze",
+        "acs": 250,
+        "kda": "20/18/9"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Raze",
+        "acs": 271,
+        "kda": "22/14/3"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Raze",
+        "acs": 253,
+        "kda": "12/12/9"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;0;c;8;u;00FFFFFF;h;0;f;0;0l;2;0t;2;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.378,
+      "resolution": "1280x960",
+      "mouse": "Lamzu Maya X"
+    }
+  },
+  {
+    "slug": "jinggg",
+    "ign": "Jinggg",
+    "realName": "Wang Jing Jie",
+    "country": "SG",
+    "team": "paper-rex",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Raze",
+        "pickRate": 54
+      },
+      {
+        "agent": "Neon",
+        "pickRate": 22
+      },
+      {
+        "agent": "Fade",
+        "pickRate": 12
+      }
+    ],
+    "stats": {
+      "rating": 1.16,
+      "acs": 263.3,
+      "kd": 1.1,
+      "adr": 152.4,
+      "kast": 72,
+      "hs": 31,
+      "fk": 4.5,
+      "fd": 2.8
+    },
+    "career": [
+      {
+        "team": "paper-rex",
+        "from": "2021-06"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "1er"
+      },
+      {
+        "title": "VALORANT Champions Los Angeles",
+        "year": 2023,
+        "placement": "2e"
+      },
+      {
+        "title": "VCT Masters Copenhague",
+        "year": 2022,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/jinggg",
+      "x": "https://x.com/jinggg"
+    },
+    "recentMatches": [
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Raze",
+        "acs": 321,
+        "kda": "26/16/2"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Neon",
+        "acs": 280,
+        "kda": "23/19/2"
+      },
+      {
+        "opponent": "drx",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Raze",
+        "acs": 266,
+        "kda": "18/18/8"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Raze",
+        "acs": 301,
+        "kda": "17/10/3"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Raze",
+        "acs": 232,
+        "kda": "22/15/6"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;5;h;0;f;0;0l;3;0t;1;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 1600,
+      "sens": 0.166,
+      "resolution": "1920x1080",
+      "mouse": "Finalmouse UltralightX"
+    }
+  },
+  {
+    "slug": "d4v41",
+    "ign": "d4v41",
+    "realName": "Khalish Rusyaidee",
+    "country": "MY",
+    "team": "paper-rex",
+    "role": "Initiateur",
+    "mainAgents": [
+      {
+        "agent": "Sova",
+        "pickRate": 44
+      },
+      {
+        "agent": "Skye",
+        "pickRate": 25
+      },
+      {
+        "agent": "Gekko",
+        "pickRate": 23
+      }
+    ],
+    "stats": {
+      "rating": 1.05,
+      "acs": 195.7,
+      "kd": 1.05,
+      "adr": 127.3,
+      "kast": 75,
+      "hs": 21,
+      "fk": 2.3,
+      "fd": 2.2
+    },
+    "career": [
+      {
+        "team": "paper-rex",
+        "from": "2021-02"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "1er"
+      },
+      {
+        "title": "VALORANT Champions Los Angeles",
+        "year": 2023,
+        "placement": "2e"
+      },
+      {
+        "title": "VCT Masters Copenhague",
+        "year": 2022,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/d4v41",
+      "x": "https://x.com/d4v41",
+      "youtube": "https://www.youtube.com/@d4v41"
+    },
+    "recentMatches": [
+      {
+        "opponent": "gen-g",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Skye",
+        "acs": 186,
+        "kda": "18/18/7"
+      },
+      {
+        "opponent": "t1",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Skye",
+        "acs": 150,
+        "kda": "24/17/8"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Sova",
+        "acs": 224,
+        "kda": "20/14/4"
+      },
+      {
+        "opponent": "t1",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Skye",
+        "acs": 165,
+        "kda": "16/12/7"
+      },
+      {
+        "opponent": "drx",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Skye",
+        "acs": 183,
+        "kda": "19/15/7"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;4;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.632,
+      "resolution": "1920x1080",
+      "mouse": "Lamzu Maya X"
+    }
+  },
+  {
+    "slug": "mindfreak",
+    "ign": "mindfreak",
+    "realName": "Aaron Leonhart",
+    "country": "ID",
+    "team": "paper-rex",
+    "role": "Contrôleur",
+    "mainAgents": [
+      {
+        "agent": "Omen",
+        "pickRate": 56
+      },
+      {
+        "agent": "Astra",
+        "pickRate": 26
+      },
+      {
+        "agent": "Viper",
+        "pickRate": 11
+      }
+    ],
+    "stats": {
+      "rating": 0.99,
+      "acs": 201.1,
+      "kd": 1.15,
+      "adr": 124.1,
+      "kast": 79,
+      "hs": 24,
+      "fk": 1.5,
+      "fd": 3.4
+    },
+    "career": [
+      {
+        "team": "paper-rex",
+        "from": "2021-02"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Toronto",
+        "year": 2025,
+        "placement": "1er"
+      },
+      {
+        "title": "VALORANT Champions Los Angeles",
+        "year": 2023,
+        "placement": "2e"
+      },
+      {
+        "title": "VCT Masters Copenhague",
+        "year": 2022,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/mindfreak",
+      "x": "https://x.com/mindfreak",
+      "youtube": "https://www.youtube.com/@mindfreak"
+    },
+    "recentMatches": [
+      {
+        "opponent": "drx",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Omen",
+        "acs": 156,
+        "kda": "15/17/8"
+      },
+      {
+        "opponent": "t1",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Astra",
+        "acs": 189,
+        "kda": "22/19/4"
+      },
+      {
+        "opponent": "t1",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Astra",
+        "acs": 173,
+        "kda": "13/15/8"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Astra",
+        "acs": 161,
+        "kda": "15/12/11"
+      },
+      {
+        "opponent": "t1",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Omen",
+        "acs": 248,
+        "kda": "23/15/2"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;3;0t;2;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.369,
+      "resolution": "1920x1080",
+      "mouse": "Lamzu Maya X"
+    }
+  },
+  {
+    "slug": "t3xture",
+    "ign": "t3xture",
+    "realName": "Kim Na-ra",
+    "country": "KR",
+    "team": "gen-g",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Jett",
+        "pickRate": 40
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 35
+      },
+      {
+        "agent": "Reyna",
+        "pickRate": 21
+      }
+    ],
+    "stats": {
+      "rating": 1.09,
+      "acs": 255.4,
+      "kd": 1.4,
+      "adr": 158.1,
+      "kast": 76,
+      "hs": 26,
+      "fk": 4.1,
+      "fd": 1.6
+    },
+    "career": [
+      {
+        "team": "gen-g",
+        "from": "2023-10"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Shanghai",
+        "year": 2024,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/t3xture",
+      "x": "https://x.com/t3xture"
+    },
+    "recentMatches": [
+      {
+        "opponent": "paper-rex",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Jett",
+        "acs": 308,
+        "kda": "13/14/2"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Jett",
+        "acs": 298,
+        "kda": "14/12/8"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 232,
+        "kda": "12/15/2"
+      },
+      {
+        "opponent": "t1",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Jett",
+        "acs": 210,
+        "kda": "19/16/4"
+      },
+      {
+        "opponent": "drx",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Jett",
+        "acs": 241,
+        "kda": "14/18/5"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;2;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.32,
+      "resolution": "1600x1080",
+      "mouse": "Logitech G Pro X Superlight 2"
+    }
+  },
+  {
+    "slug": "meteor",
+    "ign": "Meteor",
+    "realName": "Kim Tae-o",
+    "country": "KR",
+    "team": "gen-g",
+    "role": "Sentinelle",
+    "mainAgents": [
+      {
+        "agent": "Killjoy",
+        "pickRate": 46
+      },
+      {
+        "agent": "Cypher",
+        "pickRate": 31
+      },
+      {
+        "agent": "Chamber",
+        "pickRate": 18
+      }
+    ],
+    "stats": {
+      "rating": 0.99,
+      "acs": 193.1,
+      "kd": 1,
+      "adr": 140,
+      "kast": 73,
+      "hs": 23,
+      "fk": 1.6,
+      "fd": 1.7
+    },
+    "career": [
+      {
+        "team": "gen-g",
+        "from": "2022-10"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Shanghai",
+        "year": 2024,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/meteor",
+      "x": "https://x.com/meteor",
+      "youtube": "https://www.youtube.com/@meteor"
+    },
+    "recentMatches": [
+      {
+        "opponent": "paper-rex",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Killjoy",
+        "acs": 168,
+        "kda": "13/17/7"
+      },
+      {
+        "opponent": "t1",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Cypher",
+        "acs": 196,
+        "kda": "13/12/10"
+      },
+      {
+        "opponent": "t1",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Killjoy",
+        "acs": 183,
+        "kda": "20/11/7"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Cypher",
+        "acs": 245,
+        "kda": "19/17/3"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Cypher",
+        "acs": 198,
+        "kda": "16/13/8"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;1;h;0;f;0;0l;2;0t;2;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.315,
+      "resolution": "1920x1080",
+      "mouse": "Razer Viper V3 Pro"
+    }
+  },
+  {
+    "slug": "karon",
+    "ign": "Karon",
+    "realName": "Kim Won-tae",
+    "country": "KR",
+    "team": "gen-g",
+    "role": "Contrôleur",
+    "mainAgents": [
+      {
+        "agent": "Omen",
+        "pickRate": 49
+      },
+      {
+        "agent": "Viper",
+        "pickRate": 23
+      },
+      {
+        "agent": "Astra",
+        "pickRate": 16
+      }
+    ],
+    "stats": {
+      "rating": 0.95,
+      "acs": 193.2,
+      "kd": 1.08,
+      "adr": 126.4,
+      "kast": 79,
+      "hs": 27,
+      "fk": 1.3,
+      "fd": 2.7
+    },
+    "career": [
+      {
+        "team": "gen-g",
+        "from": "2023-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Shanghai",
+        "year": 2024,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/karon",
+      "x": "https://x.com/karon",
+      "youtube": "https://www.youtube.com/@karon"
+    },
+    "recentMatches": [
+      {
+        "opponent": "paper-rex",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Viper",
+        "acs": 218,
+        "kda": "22/12/10"
+      },
+      {
+        "opponent": "t1",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Viper",
+        "acs": 204,
+        "kda": "22/15/11"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Viper",
+        "acs": 154,
+        "kda": "26/19/7"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Omen",
+        "acs": 175,
+        "kda": "17/11/10"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Omen",
+        "acs": 168,
+        "kda": "15/12/10"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;1;h;0;f;0;0l;4;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.655,
+      "resolution": "1920x1080",
+      "mouse": "Logitech G Pro X Superlight 2"
+    }
+  },
+  {
+    "slug": "buzz",
+    "ign": "Buzz",
+    "realName": "Yu Byung-chul",
+    "country": "KR",
+    "team": "t1",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Jett",
+        "pickRate": 41
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 27
+      },
+      {
+        "agent": "Neon",
+        "pickRate": 22
+      }
+    ],
+    "stats": {
+      "rating": 1.3,
+      "acs": 248,
+      "kd": 1.33,
+      "adr": 153,
+      "kast": 72,
+      "hs": 25,
+      "fk": 4.2,
+      "fd": 2.6
+    },
+    "career": [
+      {
+        "team": "drx",
+        "from": "2021-01",
+        "to": "2023-10"
+      },
+      {
+        "team": "t1",
+        "from": "2023-11"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Bangkok",
+        "year": 2025,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/buzz",
+      "x": "https://x.com/buzz",
+      "youtube": "https://www.youtube.com/@buzz"
+    },
+    "recentMatches": [
+      {
+        "opponent": "drx",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Jett",
+        "acs": 249,
+        "kda": "24/17/9"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Jett",
+        "acs": 284,
+        "kda": "21/12/11"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 230,
+        "kda": "13/10/5"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Jett",
+        "acs": 268,
+        "kda": "14/13/11"
+      },
+      {
+        "opponent": "drx",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Jett",
+        "acs": 270,
+        "kda": "20/12/3"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;1;h;0;f;0;0l;2;0t;2;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.655,
+      "resolution": "1920x1080",
+      "mouse": "Finalmouse UltralightX"
+    }
+  },
+  {
+    "slug": "stax",
+    "ign": "stax",
+    "realName": "Kim Gu-taek",
+    "country": "KR",
+    "team": "t1",
+    "role": "Initiateur",
+    "mainAgents": [
+      {
+        "agent": "Breach",
+        "pickRate": 59
+      },
+      {
+        "agent": "KAY/O",
+        "pickRate": 23
+      },
+      {
+        "agent": "Sova",
+        "pickRate": 7
+      }
+    ],
+    "stats": {
+      "rating": 1.01,
+      "acs": 211.1,
+      "kd": 1.04,
+      "adr": 144.7,
+      "kast": 75,
+      "hs": 27,
+      "fk": 2.1,
+      "fd": 1.8
+    },
+    "career": [
+      {
+        "team": "drx",
+        "from": "2021-01",
+        "to": "2024-10"
+      },
+      {
+        "team": "t1",
+        "from": "2024-11"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Bangkok",
+        "year": 2025,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/stax",
+      "x": "https://x.com/stax"
+    },
+    "recentMatches": [
+      {
+        "opponent": "paper-rex",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Breach",
+        "acs": 201,
+        "kda": "18/12/2"
+      },
+      {
+        "opponent": "drx",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Breach",
+        "acs": 206,
+        "kda": "13/13/9"
+      },
+      {
+        "opponent": "drx",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Breach",
+        "acs": 268,
+        "kda": "25/15/3"
+      },
+      {
+        "opponent": "paper-rex",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Breach",
+        "acs": 251,
+        "kda": "17/10/7"
+      },
+      {
+        "opponent": "drx",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "KAY/O",
+        "acs": 182,
+        "kda": "24/20/9"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;2;0t;1;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 1600,
+      "sens": 0.136,
+      "resolution": "1920x1080",
+      "mouse": "Lamzu Maya X"
+    }
+  },
+  {
+    "slug": "zekken",
+    "ign": "zekken",
+    "realName": "Zachary Patrone",
+    "country": "US",
+    "team": "sentinels",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Raze",
+        "pickRate": 51
+      },
+      {
+        "agent": "Jett",
+        "pickRate": 24
+      },
+      {
+        "agent": "Yoru",
+        "pickRate": 17
+      }
+    ],
+    "stats": {
+      "rating": 1.09,
+      "acs": 226.3,
+      "kd": 1.37,
+      "adr": 165.9,
+      "kast": 71,
+      "hs": 33,
+      "fk": 3.9,
+      "fd": 2.7
+    },
+    "career": [
+      {
+        "team": "sentinels",
+        "from": "2022-11"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/zekken",
+      "x": "https://x.com/zekken",
+      "youtube": "https://www.youtube.com/@zekken"
+    },
+    "recentMatches": [
+      {
+        "opponent": "mibr",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Jett",
+        "acs": 219,
+        "kda": "24/14/6"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Raze",
+        "acs": 264,
+        "kda": "21/15/9"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 240,
+        "kda": "24/16/5"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Jett",
+        "acs": 286,
+        "kda": "25/12/8"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Jett",
+        "acs": 209,
+        "kda": "19/15/12"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;5;h;0;f;0;0l;2;0t;2;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.323,
+      "resolution": "1600x1080",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "johnqt",
+    "ign": "johnqt",
+    "realName": "Mohamed Ouarid",
+    "country": "MA",
+    "team": "sentinels",
+    "role": "Sentinelle",
+    "mainAgents": [
+      {
+        "agent": "Cypher",
+        "pickRate": 57
+      },
+      {
+        "agent": "Viper",
+        "pickRate": 29
+      },
+      {
+        "agent": "Killjoy",
+        "pickRate": 5
+      }
+    ],
+    "stats": {
+      "rating": 1.07,
+      "acs": 210.3,
+      "kd": 1.03,
+      "adr": 133.8,
+      "kast": 74,
+      "hs": 27,
+      "fk": 1.5,
+      "fd": 2.1
+    },
+    "career": [
+      {
+        "team": "sentinels",
+        "from": "2023-10"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/johnqt",
+      "x": "https://x.com/johnqt",
+      "youtube": "https://www.youtube.com/@johnqt"
+    },
+    "recentMatches": [
+      {
+        "opponent": "nrg",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Cypher",
+        "acs": 173,
+        "kda": "20/19/6"
+      },
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Cypher",
+        "acs": 264,
+        "kda": "17/16/3"
+      },
+      {
+        "opponent": "mibr",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Cypher",
+        "acs": 211,
+        "kda": "23/11/5"
+      },
+      {
+        "opponent": "mibr",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Viper",
+        "acs": 252,
+        "kda": "24/11/7"
+      },
+      {
+        "opponent": "loud",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Cypher",
+        "acs": 207,
+        "kda": "24/18/8"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;5;h;0;f;0;0l;3;0t;2;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.583,
+      "resolution": "1920x1080",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "zellsis",
+    "ign": "Zellsis",
+    "realName": "Jordan Montemurro",
+    "country": "US",
+    "team": "sentinels",
+    "role": "Flex",
+    "mainAgents": [
+      {
+        "agent": "Breach",
+        "pickRate": 44
+      },
+      {
+        "agent": "Sova",
+        "pickRate": 28
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 16
+      }
+    ],
+    "stats": {
+      "rating": 1.03,
+      "acs": 204.2,
+      "kd": 1.15,
+      "adr": 132.7,
+      "kast": 78,
+      "hs": 23,
+      "fk": 2.4,
+      "fd": 3.3
+    },
+    "career": [
+      {
+        "team": "sentinels",
+        "from": "2022-11"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT Masters Madrid",
+        "year": 2024,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/zellsis",
+      "x": "https://x.com/zellsis",
+      "youtube": "https://www.youtube.com/@zellsis"
+    },
+    "recentMatches": [
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Sova",
+        "acs": 233,
+        "kda": "20/18/6"
+      },
+      {
+        "opponent": "nrg",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Sova",
+        "acs": 170,
+        "kda": "13/13/10"
+      },
+      {
+        "opponent": "mibr",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Breach",
+        "acs": 195,
+        "kda": "26/13/4"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Sova",
+        "acs": 238,
+        "kda": "23/17/4"
+      },
+      {
+        "opponent": "nrg",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Breach",
+        "acs": 264,
+        "kda": "20/14/4"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;5;h;0;f;0;0l;3;0t;1;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 1600,
+      "sens": 0.138,
+      "resolution": "1280x960",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "mada",
+    "ign": "mada",
+    "realName": "Adam Pampuch",
+    "country": "CA",
+    "team": "nrg",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Jett",
+        "pickRate": 42
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 26
+      },
+      {
+        "agent": "Neon",
+        "pickRate": 25
+      }
+    ],
+    "stats": {
+      "rating": 1.21,
+      "acs": 247.6,
+      "kd": 1.25,
+      "adr": 155.2,
+      "kast": 69,
+      "hs": 27,
+      "fk": 4.6,
+      "fd": 2
+    },
+    "career": [
+      {
+        "team": "nrg",
+        "from": "2025-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VALORANT Champions Paris",
+        "year": 2025,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/mada",
+      "x": "https://x.com/mada",
+      "youtube": "https://www.youtube.com/@mada"
+    },
+    "recentMatches": [
+      {
+        "opponent": "g2-esports",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Raze",
+        "acs": 209,
+        "kda": "13/15/11"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Raze",
+        "acs": 290,
+        "kda": "23/19/8"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 269,
+        "kda": "23/17/3"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Raze",
+        "acs": 252,
+        "kda": "24/17/9"
+      },
+      {
+        "opponent": "mibr",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Jett",
+        "acs": 300,
+        "kda": "21/17/10"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;0;c;8;u;00FFFFFF;h;0;f;0;0l;2;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.419,
+      "resolution": "1600x1080",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "ethan",
+    "ign": "Ethan",
+    "realName": "Ethan Arnold",
+    "country": "US",
+    "team": "nrg",
+    "role": "Initiateur",
+    "mainAgents": [
+      {
+        "agent": "Sova",
+        "pickRate": 53
+      },
+      {
+        "agent": "Breach",
+        "pickRate": 25
+      },
+      {
+        "agent": "Fade",
+        "pickRate": 14
+      }
+    ],
+    "stats": {
+      "rating": 0.99,
+      "acs": 215.8,
+      "kd": 1.01,
+      "adr": 129.4,
+      "kast": 76,
+      "hs": 29,
+      "fk": 2.3,
+      "fd": 2.5
+    },
+    "career": [
+      {
+        "team": "evil-geniuses",
+        "from": "2023-01",
+        "to": "2024-10"
+      },
+      {
+        "team": "nrg",
+        "from": "2024-11"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VALORANT Champions Paris",
+        "year": 2025,
+        "placement": "1er"
+      },
+      {
+        "title": "VALORANT Champions Los Angeles",
+        "year": 2023,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/ethan",
+      "x": "https://x.com/ethan"
+    },
+    "recentMatches": [
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Sova",
+        "acs": 253,
+        "kda": "15/17/10"
+      },
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Sova",
+        "acs": 207,
+        "kda": "24/19/8"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Breach",
+        "acs": 186,
+        "kda": "14/19/4"
+      },
+      {
+        "opponent": "sentinels",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Sova",
+        "acs": 201,
+        "kda": "25/17/12"
+      },
+      {
+        "opponent": "mibr",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Breach",
+        "acs": 227,
+        "kda": "17/17/8"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;0;c;8;u;00FFFFFF;h;0;f;0;0l;2;0t;2;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.286,
+      "resolution": "1920x1080",
+      "mouse": "Finalmouse UltralightX"
+    }
+  },
+  {
+    "slug": "s0m",
+    "ign": "s0m",
+    "realName": "Sam Oh",
+    "country": "US",
+    "team": "nrg",
+    "role": "Contrôleur",
+    "mainAgents": [
+      {
+        "agent": "Omen",
+        "pickRate": 59
+      },
+      {
+        "agent": "Astra",
+        "pickRate": 25
+      },
+      {
+        "agent": "Viper",
+        "pickRate": 11
+      }
+    ],
+    "stats": {
+      "rating": 1.04,
+      "acs": 195.4,
+      "kd": 1.01,
+      "adr": 122,
+      "kast": 75,
+      "hs": 23,
+      "fk": 1.4,
+      "fd": 2
+    },
+    "career": [
+      {
+        "team": "nrg",
+        "from": "2023-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VALORANT Champions Paris",
+        "year": 2025,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/s0m",
+      "x": "https://x.com/s0m",
+      "youtube": "https://www.youtube.com/@s0m"
+    },
+    "recentMatches": [
+      {
+        "opponent": "g2-esports",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Omen",
+        "acs": 235,
+        "kda": "15/15/4"
+      },
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Astra",
+        "acs": 167,
+        "kda": "25/12/7"
+      },
+      {
+        "opponent": "mibr",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Omen",
+        "acs": 229,
+        "kda": "13/14/6"
+      },
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Astra",
+        "acs": 159,
+        "kda": "13/11/3"
+      },
+      {
+        "opponent": "sentinels",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Omen",
+        "acs": 227,
+        "kda": "23/18/3"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;2;0t;1;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.637,
+      "resolution": "1280x960",
+      "mouse": "Razer Viper V3 Pro"
+    }
+  },
+  {
+    "slug": "leaf",
+    "ign": "leaf",
+    "realName": "Nathan Orf",
+    "country": "US",
+    "team": "g2-esports",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Chamber",
+        "pickRate": 58
+      },
+      {
+        "agent": "Jett",
+        "pickRate": 18
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 12
+      }
+    ],
+    "stats": {
+      "rating": 1.29,
+      "acs": 258.6,
+      "kd": 1.25,
+      "adr": 170.6,
+      "kast": 76,
+      "hs": 25,
+      "fk": 4,
+      "fd": 1.4
+    },
+    "career": [
+      {
+        "team": "g2-esports",
+        "from": "2024-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Bangkok",
+        "year": 2025,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/leaf",
+      "x": "https://x.com/leaf"
+    },
+    "recentMatches": [
+      {
+        "opponent": "mibr",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Jett",
+        "acs": 283,
+        "kda": "24/16/3"
+      },
+      {
+        "opponent": "sentinels",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Jett",
+        "acs": 252,
+        "kda": "24/12/6"
+      },
+      {
+        "opponent": "nrg",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 250,
+        "kda": "23/14/12"
+      },
+      {
+        "opponent": "loud",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Chamber",
+        "acs": 300,
+        "kda": "24/11/3"
+      },
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Jett",
+        "acs": 272,
+        "kda": "24/19/10"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;1;h;0;f;0;0l;4;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.365,
+      "resolution": "1280x960",
+      "mouse": "Razer Viper V3 Pro"
+    }
+  },
+  {
+    "slug": "trent",
+    "ign": "trent",
+    "realName": "Trent Cairns",
+    "country": "US",
+    "team": "g2-esports",
+    "role": "Initiateur",
+    "mainAgents": [
+      {
+        "agent": "Sova",
+        "pickRate": 41
+      },
+      {
+        "agent": "Gekko",
+        "pickRate": 30
+      },
+      {
+        "agent": "Fade",
+        "pickRate": 19
+      }
+    ],
+    "stats": {
+      "rating": 1.02,
+      "acs": 199.8,
+      "kd": 1.19,
+      "adr": 142,
+      "kast": 78,
+      "hs": 23,
+      "fk": 2.4,
+      "fd": 3.4
+    },
+    "career": [
+      {
+        "team": "g2-esports",
+        "from": "2023-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Bangkok",
+        "year": 2025,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/trent",
+      "x": "https://x.com/trent"
+    },
+    "recentMatches": [
+      {
+        "opponent": "loud",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Sova",
+        "acs": 216,
+        "kda": "19/14/10"
+      },
+      {
+        "opponent": "mibr",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Gekko",
+        "acs": 170,
+        "kda": "21/11/8"
+      },
+      {
+        "opponent": "loud",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Sova",
+        "acs": 224,
+        "kda": "12/18/5"
+      },
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Sova",
+        "acs": 209,
+        "kda": "16/12/4"
+      },
+      {
+        "opponent": "sentinels",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Sova",
+        "acs": 247,
+        "kda": "13/19/10"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;2;0t;1;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 1600,
+      "sens": 0.184,
+      "resolution": "1600x1080",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "valyn",
+    "ign": "valyn",
+    "realName": "Jacob Batio",
+    "country": "US",
+    "team": "g2-esports",
+    "role": "Contrôleur",
+    "mainAgents": [
+      {
+        "agent": "Omen",
+        "pickRate": 57
+      },
+      {
+        "agent": "Viper",
+        "pickRate": 27
+      },
+      {
+        "agent": "Clove",
+        "pickRate": 6
+      }
+    ],
+    "stats": {
+      "rating": 1,
+      "acs": 190.2,
+      "kd": 1.12,
+      "adr": 122.6,
+      "kast": 74,
+      "hs": 23,
+      "fk": 1.6,
+      "fd": 3.5
+    },
+    "career": [
+      {
+        "team": "g2-esports",
+        "from": "2023-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Masters Bangkok",
+        "year": 2025,
+        "placement": "2e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/valyn",
+      "x": "https://x.com/valyn"
+    },
+    "recentMatches": [
+      {
+        "opponent": "mibr",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Omen",
+        "acs": 215,
+        "kda": "13/16/6"
+      },
+      {
+        "opponent": "sentinels",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Omen",
+        "acs": 194,
+        "kda": "25/19/5"
+      },
+      {
+        "opponent": "sentinels",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Omen",
+        "acs": 164,
+        "kda": "22/16/11"
+      },
+      {
+        "opponent": "nrg",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Omen",
+        "acs": 237,
+        "kda": "14/15/7"
+      },
+      {
+        "opponent": "nrg",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Viper",
+        "acs": 237,
+        "kda": "17/18/5"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;5;h;0;f;0;0l;2;0t;1;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 1600,
+      "sens": 0.139,
+      "resolution": "1280x960",
+      "mouse": "Lamzu Maya X"
+    }
+  },
+  {
+    "slug": "aspas",
+    "ign": "aspas",
+    "realName": "Erick Santos",
+    "country": "BR",
+    "team": "mibr",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Jett",
+        "pickRate": 41
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 27
+      },
+      {
+        "agent": "Neon",
+        "pickRate": 23
+      }
+    ],
+    "stats": {
+      "rating": 1.1,
+      "acs": 241.3,
+      "kd": 1.35,
+      "adr": 165.8,
+      "kast": 72,
+      "hs": 30,
+      "fk": 3.8,
+      "fd": 2.7
+    },
+    "career": [
+      {
+        "team": "loud",
+        "from": "2022-01",
+        "to": "2023-10"
+      },
+      {
+        "team": "leviatan",
+        "from": "2023-11",
+        "to": "2024-12"
+      },
+      {
+        "team": "mibr",
+        "from": "2025-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT Americas Stage 2",
+        "year": 2025,
+        "placement": "Top 3"
+      },
+      {
+        "title": "VALORANT Champions Istanbul",
+        "year": 2022,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/aspas",
+      "x": "https://x.com/aspas",
+      "youtube": "https://www.youtube.com/@aspas"
+    },
+    "recentMatches": [
+      {
+        "opponent": "sentinels",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Raze",
+        "acs": 262,
+        "kda": "21/12/4"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Raze",
+        "acs": 298,
+        "kda": "14/13/4"
+      },
+      {
+        "opponent": "g2-esports",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 213,
+        "kda": "19/12/7"
+      },
+      {
+        "opponent": "nrg",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Jett",
+        "acs": 224,
+        "kda": "18/18/3"
+      },
+      {
+        "opponent": "loud",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Raze",
+        "acs": 291,
+        "kda": "25/18/9"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;0;c;8;u;00FFFFFF;h;0;f;0;0l;3;0t;2;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.274,
+      "resolution": "1920x1080",
+      "mouse": "Lamzu Maya X"
+    },
+    "featured": true
+  },
+  {
+    "slug": "less",
+    "ign": "Less",
+    "realName": "Felipe Basso",
+    "country": "BR",
+    "team": "loud",
+    "role": "Sentinelle",
+    "mainAgents": [
+      {
+        "agent": "Viper",
+        "pickRate": 40
+      },
+      {
+        "agent": "Killjoy",
+        "pickRate": 30
+      },
+      {
+        "agent": "Cypher",
+        "pickRate": 22
+      }
+    ],
+    "stats": {
+      "rating": 1.14,
+      "acs": 214.9,
+      "kd": 1.08,
+      "adr": 140.7,
+      "kast": 76,
+      "hs": 32,
+      "fk": 1.8,
+      "fd": 2.2
+    },
+    "career": [
+      {
+        "team": "loud",
+        "from": "2022-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VALORANT Champions Istanbul",
+        "year": 2022,
+        "placement": "1er"
+      },
+      {
+        "title": "VCT LOCK//IN São Paulo",
+        "year": 2023,
+        "placement": "2e"
+      },
+      {
+        "title": "VALORANT Champions Istanbul",
+        "year": 2022,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/less",
+      "x": "https://x.com/less",
+      "youtube": "https://www.youtube.com/@less"
+    },
+    "recentMatches": [
+      {
+        "opponent": "g2-esports",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-28",
+        "agent": "Killjoy",
+        "acs": 244,
+        "kda": "23/13/5"
+      },
+      {
+        "opponent": "nrg",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-22",
+        "agent": "Viper",
+        "acs": 249,
+        "kda": "26/17/7"
+      },
+      {
+        "opponent": "mibr",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-16",
+        "agent": "Viper",
+        "acs": 195,
+        "kda": "13/16/8"
+      },
+      {
+        "opponent": "sentinels",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-10",
+        "agent": "Viper",
+        "acs": 180,
+        "kda": "20/16/9"
+      },
+      {
+        "opponent": "sentinels",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT Americas Stage 2",
+        "date": "2026-09-04",
+        "agent": "Viper",
+        "acs": 165,
+        "kda": "21/19/9"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;0;c;8;u;00FFFFFF;h;0;f;0;0l;2;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.4,
+      "resolution": "1920x1080",
+      "mouse": "Finalmouse UltralightX"
+    }
+  },
+  {
+    "slug": "zmjjkk",
+    "ign": "ZmjjKK",
+    "realName": "Zheng Yongkang",
+    "country": "CN",
+    "team": "edward-gaming",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Jett",
+        "pickRate": 57
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 21
+      },
+      {
+        "agent": "Yoru",
+        "pickRate": 13
+      }
+    ],
+    "stats": {
+      "rating": 1.2,
+      "acs": 262,
+      "kd": 1.09,
+      "adr": 167.6,
+      "kast": 73,
+      "hs": 22,
+      "fk": 3.2,
+      "fd": 2.2
+    },
+    "career": [
+      {
+        "team": "edward-gaming",
+        "from": "2021-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VALORANT Champions Séoul",
+        "year": 2024,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/zmjjkk",
+      "x": "https://x.com/zmjjkk",
+      "youtube": "https://www.youtube.com/@zmjjkk"
+    },
+    "recentMatches": [
+      {
+        "opponent": "trace-esports",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-28",
+        "agent": "Raze",
+        "acs": 285,
+        "kda": "15/18/7"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-22",
+        "agent": "Raze",
+        "acs": 275,
+        "kda": "23/13/9"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-16",
+        "agent": "Jett",
+        "acs": 276,
+        "kda": "13/17/6"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-10",
+        "agent": "Raze",
+        "acs": 216,
+        "kda": "14/12/10"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-04",
+        "agent": "Raze",
+        "acs": 220,
+        "kda": "21/12/10"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;5;h;0;f;0;0l;4;0t;2;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.345,
+      "resolution": "1600x1080",
+      "mouse": "Logitech G Pro X Superlight 2"
+    }
+  },
+  {
+    "slug": "nobody",
+    "ign": "nobody",
+    "realName": "Wang Senxu",
+    "country": "CN",
+    "team": "edward-gaming",
+    "role": "Flex",
+    "mainAgents": [
+      {
+        "agent": "Viper",
+        "pickRate": 56
+      },
+      {
+        "agent": "Breach",
+        "pickRate": 19
+      },
+      {
+        "agent": "Sage",
+        "pickRate": 16
+      }
+    ],
+    "stats": {
+      "rating": 1.09,
+      "acs": 212.6,
+      "kd": 1.12,
+      "adr": 148.6,
+      "kast": 76,
+      "hs": 29,
+      "fk": 2.8,
+      "fd": 2.5
+    },
+    "career": [
+      {
+        "team": "edward-gaming",
+        "from": "2021-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VALORANT Champions Séoul",
+        "year": 2024,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/nobody",
+      "x": "https://x.com/nobody"
+    },
+    "recentMatches": [
+      {
+        "opponent": "trace-esports",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-28",
+        "agent": "Breach",
+        "acs": 197,
+        "kda": "13/16/5"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-22",
+        "agent": "Viper",
+        "acs": 167,
+        "kda": "17/14/5"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-16",
+        "agent": "Viper",
+        "acs": 249,
+        "kda": "13/12/5"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-10",
+        "agent": "Viper",
+        "acs": 165,
+        "kda": "25/16/11"
+      },
+      {
+        "opponent": "trace-esports",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-04",
+        "agent": "Viper",
+        "acs": 168,
+        "kda": "25/15/3"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;2;0t;2;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 400,
+      "sens": 0.57,
+      "resolution": "1280x960",
+      "mouse": "Razer Viper V3 Pro"
+    }
+  },
+  {
+    "slug": "smoggy",
+    "ign": "Smoggy",
+    "realName": "Zhang Zhao",
+    "country": "CN",
+    "team": "edward-gaming",
+    "role": "Initiateur",
+    "mainAgents": [
+      {
+        "agent": "Sova",
+        "pickRate": 47
+      },
+      {
+        "agent": "Gekko",
+        "pickRate": 29
+      },
+      {
+        "agent": "KAY/O",
+        "pickRate": 19
+      }
+    ],
+    "stats": {
+      "rating": 1.01,
+      "acs": 206.5,
+      "kd": 1.04,
+      "adr": 137,
+      "kast": 75,
+      "hs": 27,
+      "fk": 1.9,
+      "fd": 2.6
+    },
+    "career": [
+      {
+        "team": "edward-gaming",
+        "from": "2022-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VALORANT Champions Séoul",
+        "year": 2024,
+        "placement": "1er"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/smoggy",
+      "x": "https://x.com/smoggy"
+    },
+    "recentMatches": [
+      {
+        "opponent": "bilibili-gaming",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-28",
+        "agent": "Gekko",
+        "acs": 243,
+        "kda": "25/13/4"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-22",
+        "agent": "Gekko",
+        "acs": 180,
+        "kda": "16/13/2"
+      },
+      {
+        "opponent": "trace-esports",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-16",
+        "agent": "Gekko",
+        "acs": 235,
+        "kda": "19/19/2"
+      },
+      {
+        "opponent": "bilibili-gaming",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-10",
+        "agent": "Sova",
+        "acs": 247,
+        "kda": "17/16/5"
+      },
+      {
+        "opponent": "trace-esports",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-04",
+        "agent": "Sova",
+        "acs": 189,
+        "kda": "25/20/9"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;1;h;0;f;0;0l;4;0t;2;0o;3;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.375,
+      "resolution": "1600x1080",
+      "mouse": "Logitech G Pro X Superlight 2"
+    }
+  },
+  {
+    "slug": "whzy",
+    "ign": "whzy",
+    "realName": "Wang Haozhe",
+    "country": "CN",
+    "team": "bilibili-gaming",
+    "role": "Duelliste",
+    "mainAgents": [
+      {
+        "agent": "Jett",
+        "pickRate": 48
+      },
+      {
+        "agent": "Neon",
+        "pickRate": 25
+      },
+      {
+        "agent": "Raze",
+        "pickRate": 22
+      }
+    ],
+    "stats": {
+      "rating": 1.1,
+      "acs": 262.2,
+      "kd": 1.35,
+      "adr": 164.2,
+      "kast": 75,
+      "hs": 31,
+      "fk": 4.4,
+      "fd": 1.8
+    },
+    "career": [
+      {
+        "team": "bilibili-gaming",
+        "from": "2024-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VCT China Stage 1",
+        "year": 2025,
+        "placement": "Top 3"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/whzy",
+      "x": "https://x.com/whzy",
+      "youtube": "https://www.youtube.com/@whzy"
+    },
+    "recentMatches": [
+      {
+        "opponent": "trace-esports",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-28",
+        "agent": "Jett",
+        "acs": 303,
+        "kda": "25/15/11"
+      },
+      {
+        "opponent": "edward-gaming",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-22",
+        "agent": "Neon",
+        "acs": 310,
+        "kda": "23/17/8"
+      },
+      {
+        "opponent": "edward-gaming",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-16",
+        "agent": "Neon",
+        "acs": 240,
+        "kda": "14/13/8"
+      },
+      {
+        "opponent": "trace-esports",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-10",
+        "agent": "Neon",
+        "acs": 268,
+        "kda": "25/13/11"
+      },
+      {
+        "opponent": "edward-gaming",
+        "result": "V",
+        "score": "2-1",
+        "event": "VCT China Stage 2",
+        "date": "2026-09-04",
+        "agent": "Neon",
+        "acs": 286,
+        "kda": "15/17/10"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;3;0t;1;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.367,
+      "resolution": "1920x1080",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "mako",
+    "ign": "MaKo",
+    "realName": "Kim Myeong-gwan",
+    "country": "KR",
+    "team": "drx",
+    "role": "Contrôleur",
+    "mainAgents": [
+      {
+        "agent": "Omen",
+        "pickRate": 53
+      },
+      {
+        "agent": "Astra",
+        "pickRate": 23
+      },
+      {
+        "agent": "Brimstone",
+        "pickRate": 19
+      }
+    ],
+    "stats": {
+      "rating": 1.07,
+      "acs": 190.7,
+      "kd": 0.99,
+      "adr": 130.2,
+      "kast": 79,
+      "hs": 22,
+      "fk": 1.6,
+      "fd": 1.4
+    },
+    "career": [
+      {
+        "team": "drx",
+        "from": "2021-01"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "VALORANT Champions Istanbul",
+        "year": 2022,
+        "placement": "3e"
+      }
+    ],
+    "socials": {
+      "twitch": "https://www.twitch.tv/mako",
+      "x": "https://x.com/mako",
+      "youtube": "https://www.youtube.com/@mako"
+    },
+    "recentMatches": [
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-28",
+        "agent": "Astra",
+        "acs": 199,
+        "kda": "19/18/4"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "D",
+        "score": "0-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-22",
+        "agent": "Omen",
+        "acs": 224,
+        "kda": "23/15/3"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-16",
+        "agent": "Omen",
+        "acs": 191,
+        "kda": "26/19/8"
+      },
+      {
+        "opponent": "t1",
+        "result": "D",
+        "score": "1-2",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-10",
+        "agent": "Omen",
+        "acs": 191,
+        "kda": "15/17/11"
+      },
+      {
+        "opponent": "gen-g",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT Pacific Stage 2",
+        "date": "2026-09-04",
+        "agent": "Omen",
+        "acs": 192,
+        "kda": "19/13/12"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;3;0t;2;0o;2;0a;1;0f;0;1b;0",
+      "dpi": 800,
+      "sens": 0.343,
+      "resolution": "1280x960",
+      "mouse": "Zowie EC2-CW"
+    }
+  },
+  {
+    "slug": "suygetsu",
+    "ign": "SUYGETSU",
+    "realName": "Dmitry Ilyushin",
+    "country": "RU",
+    "team": "karmine-corp",
+    "role": "Sentinelle",
+    "mainAgents": [
+      {
+        "agent": "Killjoy",
+        "pickRate": 58
+      },
+      {
+        "agent": "Cypher",
+        "pickRate": 28
+      },
+      {
+        "agent": "Vyse",
+        "pickRate": 5
+      }
+    ],
+    "stats": {
+      "rating": 1.01,
+      "acs": 205.3,
+      "kd": 1.04,
+      "adr": 129.5,
+      "kast": 74,
+      "hs": 31,
+      "fk": 1.4,
+      "fd": 1.2
+    },
+    "career": [
+      {
+        "team": "karmine-corp",
+        "from": "2025-01"
+      }
+    ],
+    "achievements": [],
+    "socials": {
+      "twitch": "https://www.twitch.tv/suygetsu",
+      "x": "https://x.com/suygetsu",
+      "youtube": "https://www.youtube.com/@suygetsu"
+    },
+    "recentMatches": [
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-28",
+        "agent": "Cypher",
+        "acs": 204,
+        "kda": "23/12/7"
+      },
+      {
+        "opponent": "fnatic",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-22",
+        "agent": "Cypher",
+        "acs": 212,
+        "kda": "25/16/11"
+      },
+      {
+        "opponent": "fnatic",
+        "result": "V",
+        "score": "2-0",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-16",
+        "agent": "Killjoy",
+        "acs": 181,
+        "kda": "18/17/12"
+      },
+      {
+        "opponent": "team-vitality",
+        "result": "V",
+        "score": "3-1",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-10",
+        "agent": "Killjoy",
+        "acs": 230,
+        "kda": "17/12/11"
+      },
+      {
+        "opponent": "fnatic",
+        "result": "D",
+        "score": "2-3",
+        "event": "VCT EMEA Stage 2",
+        "date": "2026-09-04",
+        "agent": "Cypher",
+        "acs": 169,
+        "kda": "14/14/11"
+      }
+    ],
+    "settings": {
+      "crosshair": "0;P;c;6;h;0;f;0;0l;4;0t;1;0o;1;0a;1;0f;0;1b;0",
+      "dpi": 1600,
+      "sens": 0.188,
+      "resolution": "1280x960",
+      "mouse": "Finalmouse UltralightX"
+    }
+  }
+]

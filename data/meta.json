@@ -1,0 +1,1581 @@
+{
+  "updatedAt": "2026-10-10",
+  "patch": "13.07",
+  "agentTiers": {
+    "global": {
+      "S": [
+        "Omen",
+        "Jett",
+        "Sova",
+        "Viper",
+        "Cypher"
+      ],
+      "A": [
+        "Raze",
+        "Fade",
+        "Killjoy",
+        "Clove",
+        "Neon",
+        "Vyse",
+        "Tejo",
+        "Breach"
+      ],
+      "B": [
+        "Astra",
+        "Gekko",
+        "KAY/O",
+        "Yoru",
+        "Waylay",
+        "Reyna",
+        "Sage",
+        "Veto"
+      ],
+      "C": [
+        "Skye",
+        "Harbor",
+        "Chamber",
+        "Iso",
+        "Brimstone",
+        "Deadlock"
+      ],
+      "D": [
+        "Phoenix"
+      ]
+    },
+    "byRank": {
+      "Fer – Argent": {
+        "S": [
+          "Reyna",
+          "Sage",
+          "Clove",
+          "Phoenix"
+        ],
+        "A": [
+          "Jett",
+          "Omen",
+          "Killjoy",
+          "Sova",
+          "Brimstone"
+        ],
+        "B": [
+          "Raze",
+          "Neon",
+          "Gekko",
+          "Skye",
+          "Iso",
+          "Waylay"
+        ],
+        "C": [
+          "Cypher",
+          "Fade",
+          "Viper",
+          "Vyse",
+          "Tejo",
+          "Yoru",
+          "KAY/O",
+          "Veto"
+        ],
+        "D": [
+          "Astra",
+          "Harbor",
+          "Breach",
+          "Chamber",
+          "Deadlock"
+        ]
+      },
+      "Or – Diamant": {
+        "S": [
+          "Jett",
+          "Omen",
+          "Clove",
+          "Reyna"
+        ],
+        "A": [
+          "Sova",
+          "Killjoy",
+          "Raze",
+          "Neon",
+          "Vyse",
+          "Tejo"
+        ],
+        "B": [
+          "Fade",
+          "Cypher",
+          "Gekko",
+          "Sage",
+          "Waylay",
+          "Yoru",
+          "Viper"
+        ],
+        "C": [
+          "KAY/O",
+          "Breach",
+          "Skye",
+          "Iso",
+          "Phoenix",
+          "Veto",
+          "Brimstone"
+        ],
+        "D": [
+          "Astra",
+          "Harbor",
+          "Chamber",
+          "Deadlock"
+        ]
+      },
+      "Ascendant – Radiant": {
+        "S": [
+          "Jett",
+          "Omen",
+          "Sova",
+          "Viper",
+          "Raze"
+        ],
+        "A": [
+          "Cypher",
+          "Fade",
+          "Neon",
+          "Clove",
+          "Killjoy",
+          "Tejo",
+          "Yoru"
+        ],
+        "B": [
+          "Vyse",
+          "Breach",
+          "Astra",
+          "Waylay",
+          "Gekko",
+          "KAY/O",
+          "Veto"
+        ],
+        "C": [
+          "Reyna",
+          "Sage",
+          "Skye",
+          "Iso",
+          "Harbor",
+          "Chamber"
+        ],
+        "D": [
+          "Phoenix",
+          "Brimstone",
+          "Deadlock"
+        ]
+      }
+    },
+    "byMap": {
+      "ascent": {
+        "S": [
+          "Jett",
+          "Sova",
+          "Omen"
+        ],
+        "A": [
+          "Killjoy",
+          "KAY/O",
+          "Fade",
+          "Cypher"
+        ],
+        "B": [
+          "Viper",
+          "Raze",
+          "Clove",
+          "Neon",
+          "Vyse",
+          "Tejo",
+          "Breach",
+          "Astra"
+        ],
+        "C": [
+          "Gekko",
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage",
+          "Veto",
+          "Skye"
+        ],
+        "D": [
+          "Harbor",
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "bind": {
+        "S": [
+          "Raze",
+          "Brimstone",
+          "Viper"
+        ],
+        "A": [
+          "Skye",
+          "Cypher",
+          "Fade",
+          "Omen",
+          "Killjoy"
+        ],
+        "B": [
+          "Jett",
+          "Sova",
+          "Clove",
+          "Neon",
+          "Vyse",
+          "Tejo",
+          "Breach",
+          "Astra"
+        ],
+        "C": [
+          "Gekko",
+          "KAY/O",
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage",
+          "Veto"
+        ],
+        "D": [
+          "Harbor",
+          "Chamber",
+          "Iso",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "haven": {
+        "S": [
+          "Jett",
+          "Sova",
+          "Omen"
+        ],
+        "A": [
+          "Killjoy",
+          "Breach",
+          "Neon",
+          "Tejo",
+          "Cypher"
+        ],
+        "B": [
+          "Viper",
+          "Raze",
+          "Fade",
+          "Clove",
+          "Vyse",
+          "Astra",
+          "Gekko",
+          "KAY/O"
+        ],
+        "C": [
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage",
+          "Veto",
+          "Skye",
+          "Harbor"
+        ],
+        "D": [
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "lotus": {
+        "S": [
+          "Raze",
+          "Fade",
+          "Omen"
+        ],
+        "A": [
+          "Killjoy",
+          "Viper",
+          "Neon",
+          "Clove",
+          "Breach"
+        ],
+        "B": [
+          "Jett",
+          "Sova",
+          "Cypher",
+          "Vyse",
+          "Tejo",
+          "Astra",
+          "Gekko",
+          "KAY/O"
+        ],
+        "C": [
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage",
+          "Veto",
+          "Skye",
+          "Harbor"
+        ],
+        "D": [
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "sunset": {
+        "S": [
+          "Neon",
+          "Cypher",
+          "Omen"
+        ],
+        "A": [
+          "Fade",
+          "Breach",
+          "Jett",
+          "Sova",
+          "Gekko"
+        ],
+        "B": [
+          "Viper",
+          "Raze",
+          "Killjoy",
+          "Clove",
+          "Vyse",
+          "Tejo",
+          "Astra",
+          "KAY/O"
+        ],
+        "C": [
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage",
+          "Veto",
+          "Skye",
+          "Harbor"
+        ],
+        "D": [
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "corrode": {
+        "S": [
+          "Jett",
+          "Sova",
+          "Viper"
+        ],
+        "A": [
+          "Vyse",
+          "Omen",
+          "Waylay",
+          "Fade",
+          "Clove"
+        ],
+        "B": [
+          "Cypher",
+          "Raze",
+          "Killjoy",
+          "Neon",
+          "Tejo",
+          "Breach",
+          "Astra",
+          "Gekko"
+        ],
+        "C": [
+          "KAY/O",
+          "Yoru",
+          "Reyna",
+          "Sage",
+          "Veto",
+          "Skye",
+          "Harbor"
+        ],
+        "D": [
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "abyss": {
+        "S": [
+          "Jett",
+          "Sova",
+          "Astra"
+        ],
+        "A": [
+          "Cypher",
+          "Gekko",
+          "Raze",
+          "Omen",
+          "Viper"
+        ],
+        "B": [
+          "Fade",
+          "Killjoy",
+          "Clove",
+          "Neon",
+          "Vyse",
+          "Tejo",
+          "Breach",
+          "KAY/O"
+        ],
+        "C": [
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage",
+          "Veto",
+          "Skye",
+          "Harbor"
+        ],
+        "D": [
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "breeze": {
+        "S": [
+          "Jett",
+          "Viper",
+          "Sova"
+        ],
+        "A": [
+          "Cypher",
+          "KAY/O"
+        ],
+        "B": [
+          "Omen",
+          "Raze",
+          "Fade",
+          "Killjoy",
+          "Clove",
+          "Neon",
+          "Vyse",
+          "Tejo"
+        ],
+        "C": [
+          "Breach",
+          "Astra",
+          "Gekko",
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage"
+        ],
+        "D": [
+          "Veto",
+          "Skye",
+          "Harbor",
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "icebox": {
+        "S": [
+          "Jett",
+          "Viper",
+          "Sova"
+        ],
+        "A": [
+          "Killjoy",
+          "KAY/O"
+        ],
+        "B": [
+          "Omen",
+          "Cypher",
+          "Raze",
+          "Fade",
+          "Clove",
+          "Neon",
+          "Vyse",
+          "Tejo"
+        ],
+        "C": [
+          "Breach",
+          "Astra",
+          "Gekko",
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage"
+        ],
+        "D": [
+          "Veto",
+          "Skye",
+          "Harbor",
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "split": {
+        "S": [
+          "Raze",
+          "Omen",
+          "Viper"
+        ],
+        "A": [
+          "Skye",
+          "Cypher"
+        ],
+        "B": [
+          "Jett",
+          "Sova",
+          "Fade",
+          "Killjoy",
+          "Clove",
+          "Neon",
+          "Vyse",
+          "Tejo"
+        ],
+        "C": [
+          "Breach",
+          "Astra",
+          "Gekko",
+          "KAY/O",
+          "Yoru",
+          "Waylay",
+          "Reyna"
+        ],
+        "D": [
+          "Sage",
+          "Veto",
+          "Harbor",
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "pearl": {
+        "S": [
+          "Jett",
+          "Fade",
+          "Astra"
+        ],
+        "A": [
+          "Killjoy",
+          "Breach"
+        ],
+        "B": [
+          "Omen",
+          "Sova",
+          "Viper",
+          "Cypher",
+          "Raze",
+          "Clove",
+          "Neon",
+          "Vyse"
+        ],
+        "C": [
+          "Tejo",
+          "Gekko",
+          "KAY/O",
+          "Yoru",
+          "Waylay",
+          "Reyna",
+          "Sage"
+        ],
+        "D": [
+          "Veto",
+          "Skye",
+          "Harbor",
+          "Chamber",
+          "Iso",
+          "Brimstone",
+          "Deadlock",
+          "Phoenix"
+        ]
+      },
+      "fracture": {
+        "S": [
+          "Raze",
+          "Breach",
+          "Brimstone"
+        ],
+        "A": [
+          "Fade",
+          "Cypher"
+        ],
+        "B": [
+          "Omen",
+          "Jett",
+          "Sova",
+          "Viper",
+          "Killjoy",
+          "Clove",
+          "Neon",
+          "Vyse"
+        ],
+        "C": [
+          "Tejo",
+          "Astra",
+          "Gekko",
+          "KAY/O",
+          "Yoru",
+          "Waylay",
+          "Reyna"
+        ],
+        "D": [
+          "Sage",
+          "Veto",
+          "Skye",
+          "Harbor",
+          "Chamber",
+          "Iso",
+          "Deadlock",
+          "Phoenix"
+        ]
+      }
+    }
+  },
+  "agentRates": {
+    "Omen": {
+      "pick": 9.8,
+      "win": 52.1,
+      "proPick": 47.4
+    },
+    "Jett": {
+      "pick": 11.6,
+      "win": 51.3,
+      "proPick": 57.9
+    },
+    "Sova": {
+      "pick": 12.6,
+      "win": 51.4,
+      "proPick": 67.5
+    },
+    "Viper": {
+      "pick": 14.4,
+      "win": 51.1,
+      "proPick": 62.3
+    },
+    "Cypher": {
+      "pick": 16.7,
+      "win": 49.1,
+      "proPick": 51.1
+    },
+    "Raze": {
+      "pick": 10.1,
+      "win": 51.1,
+      "proPick": 37.3
+    },
+    "Fade": {
+      "pick": 10,
+      "win": 50.1,
+      "proPick": 74.7
+    },
+    "Killjoy": {
+      "pick": 10.7,
+      "win": 48.6,
+      "proPick": 57.1
+    },
+    "Clove": {
+      "pick": 11.3,
+      "win": 51.1,
+      "proPick": 16.5
+    },
+    "Neon": {
+      "pick": 9.4,
+      "win": 52.1,
+      "proPick": 22.8
+    },
+    "Vyse": {
+      "pick": 8.3,
+      "win": 49.5,
+      "proPick": 21.1
+    },
+    "Tejo": {
+      "pick": 8.1,
+      "win": 48.7,
+      "proPick": 8.1
+    },
+    "Breach": {
+      "pick": 8.6,
+      "win": 49.3,
+      "proPick": 23.5
+    },
+    "Astra": {
+      "pick": 6.2,
+      "win": 51.3,
+      "proPick": 22.1
+    },
+    "Gekko": {
+      "pick": 4.4,
+      "win": 49.2,
+      "proPick": 14.5
+    },
+    "KAY/O": {
+      "pick": 6,
+      "win": 49.9,
+      "proPick": 5.6
+    },
+    "Yoru": {
+      "pick": 7.5,
+      "win": 48.2,
+      "proPick": 9.8
+    },
+    "Waylay": {
+      "pick": 5.4,
+      "win": 51,
+      "proPick": 23.2
+    },
+    "Reyna": {
+      "pick": 6.1,
+      "win": 48.7,
+      "proPick": 10.7
+    },
+    "Sage": {
+      "pick": 5.2,
+      "win": 49.6,
+      "proPick": 11.2
+    },
+    "Veto": {
+      "pick": 5.4,
+      "win": 50.4,
+      "proPick": 15.7
+    },
+    "Skye": {
+      "pick": 2.9,
+      "win": 52.1,
+      "proPick": 12
+    },
+    "Harbor": {
+      "pick": 4.3,
+      "win": 50.9,
+      "proPick": 16.2
+    },
+    "Chamber": {
+      "pick": 3.5,
+      "win": 50.3,
+      "proPick": 17.5
+    },
+    "Iso": {
+      "pick": 4.4,
+      "win": 49.8,
+      "proPick": 18
+    },
+    "Brimstone": {
+      "pick": 3,
+      "win": 50.6,
+      "proPick": 9.4
+    },
+    "Deadlock": {
+      "pick": 3.1,
+      "win": 49.8,
+      "proPick": 20.1
+    },
+    "Phoenix": {
+      "pick": 2.5,
+      "win": 48.5,
+      "proPick": 20.7
+    }
+  },
+  "weaponTiers": [
+    {
+      "weapon": "Vandal",
+      "tier": "S",
+      "rankedPick": 47.8,
+      "proPick": 39.2,
+      "note": "One-tap à la tête à toute distance : l'arme reine du ranked."
+    },
+    {
+      "weapon": "Phantom",
+      "tier": "S",
+      "rankedPick": 31.5,
+      "proPick": 37.6,
+      "note": "Silencieuse, sans traceurs, idéale pour spammer les fumées."
+    },
+    {
+      "weapon": "Operator",
+      "tier": "S",
+      "rankedPick": 6.2,
+      "proPick": 9.8,
+      "note": "Contrôle des longues lignes, un tir = un kill au corps."
+    },
+    {
+      "weapon": "Spectre",
+      "tier": "A",
+      "rankedPick": 4.8,
+      "proPick": 3.4,
+      "note": "Le meilleur achat de force-buy, excellent en mouvement."
+    },
+    {
+      "weapon": "Sheriff",
+      "tier": "A",
+      "rankedPick": 3.9,
+      "proPick": 2.1,
+      "note": "Un one-tap à la tête jusqu'à 30 m pour 800 crédits."
+    },
+    {
+      "weapon": "Ghost",
+      "tier": "A",
+      "rankedPick": 9.4,
+      "proPick": 6.7,
+      "note": "Le pistolet polyvalent des pistol rounds."
+    },
+    {
+      "weapon": "Outlaw",
+      "tier": "A",
+      "rankedPick": 1.6,
+      "proPick": 2.9,
+      "note": "Sniper double canon, un one-shot au corps pour 2 400."
+    },
+    {
+      "weapon": "Guardian",
+      "tier": "B",
+      "rankedPick": 1.2,
+      "proPick": 0.8,
+      "note": "Très précis, pour les économies serrées."
+    },
+    {
+      "weapon": "Marshal",
+      "tier": "B",
+      "rankedPick": 1.9,
+      "proPick": 1.1,
+      "note": "Sniper léger pour les eco et les rounds bonus."
+    },
+    {
+      "weapon": "Judge",
+      "tier": "B",
+      "rankedPick": 1.4,
+      "proPick": 1.2,
+      "note": "Destructeur sur les sites serrés et en défense."
+    },
+    {
+      "weapon": "Bulldog",
+      "tier": "B",
+      "rankedPick": 0.9,
+      "proPick": 0.5,
+      "note": "Rafale en visée, un bon choix de demi-achat."
+    },
+    {
+      "weapon": "Frenzy",
+      "tier": "B",
+      "rankedPick": 2.2,
+      "proPick": 1.6,
+      "note": "Pistolet automatique, terrible à courte portée."
+    },
+    {
+      "weapon": "Bandit",
+      "tier": "B",
+      "rankedPick": 1.8,
+      "proPick": 1.3,
+      "note": "Pistolet précis et rapide, alternative au Ghost."
+    },
+    {
+      "weapon": "Classic",
+      "tier": "C",
+      "rankedPick": 4.1,
+      "proPick": 3,
+      "note": "Gratuit, utile en clic droit à courte portée."
+    },
+    {
+      "weapon": "Stinger",
+      "tier": "C",
+      "rankedPick": 0.7,
+      "proPick": 0.6,
+      "note": "Mitraillette bon marché, efficace à bout portant."
+    },
+    {
+      "weapon": "Shorty",
+      "tier": "C",
+      "rankedPick": 0.8,
+      "proPick": 0.9,
+      "note": "Achat d'appoint pour tenir un angle serré."
+    },
+    {
+      "weapon": "Bucky",
+      "tier": "C",
+      "rankedPick": 0.5,
+      "proPick": 0.4,
+      "note": "Fusil à pompe à deux modes, situationnel."
+    },
+    {
+      "weapon": "Odin",
+      "tier": "C",
+      "rankedPick": 0.4,
+      "proPick": 0.2,
+      "note": "Spam à travers les murs, cadence qui monte."
+    },
+    {
+      "weapon": "Ares",
+      "tier": "D",
+      "rankedPick": 0.3,
+      "proPick": 0.1,
+      "note": "Rarement rentable face aux fusils d'assaut."
+    }
+  ],
+  "maps": {
+    "ascent": {
+      "attackWin": 46.5,
+      "defenseWin": 53.5,
+      "playRate": 13,
+      "bestAgents": [
+        "Jett",
+        "Sova",
+        "Omen",
+        "Killjoy",
+        "KAY/O"
+      ],
+      "inPool": true,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Jett",
+            "Sova",
+            "Omen",
+            "Killjoy",
+            "KAY/O"
+          ],
+          "winRate": 51,
+          "note": "Info du Sova, flash du KAY/O et setup Killjoy au B : la référence."
+        },
+        {
+          "name": "Double initiateur",
+          "agents": [
+            "Jett",
+            "Sova",
+            "Fade",
+            "Omen",
+            "Cypher"
+          ],
+          "winRate": 50.5,
+          "note": "Plus d'info pour prendre le Mid et punir les rotations."
+        }
+      ],
+      "tips": [
+        "Le contrôle du Mid (Marché / Catwalk) décide de la plupart des rounds.",
+        "Fermez les portes mécaniques en défense pour couper une entrée.",
+        "Les recon darts du Sova depuis le Spawn attaque couvrent A Main."
+      ]
+    },
+    "bind": {
+      "attackWin": 52.5,
+      "defenseWin": 47.5,
+      "playRate": 12.1,
+      "bestAgents": [
+        "Raze",
+        "Brimstone",
+        "Viper",
+        "Skye",
+        "Cypher"
+      ],
+      "inPool": true,
+      "comps": [
+        {
+          "name": "Double contrôleur",
+          "agents": [
+            "Raze",
+            "Brimstone",
+            "Viper",
+            "Skye",
+            "Cypher"
+          ],
+          "winRate": 54.1,
+          "note": "Brimstone + Viper coupent parfaitement Hookah et Showers."
+        },
+        {
+          "name": "Fade rapide",
+          "agents": [
+            "Raze",
+            "Fade",
+            "Viper",
+            "Omen",
+            "Killjoy"
+          ],
+          "winRate": 50.9,
+          "note": "Exécutions rapides via les téléporteurs."
+        }
+      ],
+      "tips": [
+        "Les téléporteurs font du bruit : utilisez-les pour feinter.",
+        "Le Satchel de Raze permet de surprendre en Hookah.",
+        "Pas de Mid : la vitesse de rotation est la clé."
+      ]
+    },
+    "haven": {
+      "attackWin": 49,
+      "defenseWin": 51,
+      "playRate": 14,
+      "bestAgents": [
+        "Jett",
+        "Sova",
+        "Omen",
+        "Killjoy",
+        "Breach"
+      ],
+      "inPool": true,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Jett",
+            "Sova",
+            "Omen",
+            "Killjoy",
+            "Breach"
+          ],
+          "winRate": 50.9,
+          "note": "Breach ouvre Garage et C Long avec ses stuns."
+        },
+        {
+          "name": "Tejo double info",
+          "agents": [
+            "Neon",
+            "Tejo",
+            "Sova",
+            "Omen",
+            "Cypher"
+          ],
+          "winRate": 56,
+          "note": "Pression constante sur trois sites."
+        }
+      ],
+      "tips": [
+        "Trois sites : jouez sur la défausse et les lurks.",
+        "Le Garage est la clé pour couper les rotations entre B et C.",
+        "Les défenseurs doivent souvent jouer à 1 contre 2 sur A Long."
+      ]
+    },
+    "lotus": {
+      "attackWin": 51.7,
+      "defenseWin": 48.3,
+      "playRate": 15.5,
+      "bestAgents": [
+        "Raze",
+        "Fade",
+        "Omen",
+        "Killjoy",
+        "Viper"
+      ],
+      "inPool": true,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Raze",
+            "Fade",
+            "Omen",
+            "Killjoy",
+            "Viper"
+          ],
+          "winRate": 55.8,
+          "note": "Viper coupe A Main, Raze nettoie les recoins."
+        },
+        {
+          "name": "Clove agressive",
+          "agents": [
+            "Neon",
+            "Clove",
+            "Fade",
+            "Breach",
+            "Vyse"
+          ],
+          "winRate": 55.9,
+          "note": "Exécutions explosives à travers les portes rotatives."
+        }
+      ],
+      "tips": [
+        "Les portes rotatives font beaucoup de bruit et laissent du temps de réaction.",
+        "Le mur cassable du site C ouvre une route surprise.",
+        "Contrôlez la Cascade pour menacer A et B."
+      ]
+    },
+    "sunset": {
+      "attackWin": 50.9,
+      "defenseWin": 49.1,
+      "playRate": 12.4,
+      "bestAgents": [
+        "Neon",
+        "Cypher",
+        "Omen",
+        "Fade",
+        "Breach"
+      ],
+      "inPool": true,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Neon",
+            "Cypher",
+            "Omen",
+            "Fade",
+            "Breach"
+          ],
+          "winRate": 50.1,
+          "note": "Neon rapide pour prendre le Mid et punir les défenseurs."
+        },
+        {
+          "name": "Jett op",
+          "agents": [
+            "Jett",
+            "Cypher",
+            "Omen",
+            "Sova",
+            "Gekko"
+          ],
+          "winRate": 51.6,
+          "note": "Opérateur pour verrouiller le Mid en défense."
+        }
+      ],
+      "tips": [
+        "La porte du Mid peut être fermée pour couper les rotations.",
+        "B Market est une zone de lurk très efficace.",
+        "Les angles sont courts : préférez les rifles et les mitraillettes."
+      ]
+    },
+    "corrode": {
+      "attackWin": 46.5,
+      "defenseWin": 53.5,
+      "playRate": 11,
+      "bestAgents": [
+        "Jett",
+        "Sova",
+        "Viper",
+        "Vyse",
+        "Omen"
+      ],
+      "inPool": true,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Jett",
+            "Sova",
+            "Viper",
+            "Vyse",
+            "Omen"
+          ],
+          "winRate": 54,
+          "note": "Viper coupe les longues lignes, Vyse verrouille les sites."
+        },
+        {
+          "name": "Waylay",
+          "agents": [
+            "Waylay",
+            "Fade",
+            "Clove",
+            "Cypher",
+            "Breach"
+          ],
+          "winRate": 51.5,
+          "note": "Entrées rapides et retakes faciles."
+        }
+      ],
+      "tips": [
+        "Les longues lignes de vue favorisent l'Operator.",
+        "Le Mid offre deux routes de rotation : surveillez-les.",
+        "Jouez les utilitaires de retake en duo."
+      ]
+    },
+    "abyss": {
+      "attackWin": 50.8,
+      "defenseWin": 49.2,
+      "playRate": 13.4,
+      "bestAgents": [
+        "Jett",
+        "Sova",
+        "Astra",
+        "Cypher",
+        "Gekko"
+      ],
+      "inPool": true,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Jett",
+            "Sova",
+            "Astra",
+            "Cypher",
+            "Gekko"
+          ],
+          "winRate": 54.5,
+          "note": "Astra couvre les deux sites depuis la carte globale."
+        },
+        {
+          "name": "Omen + Viper",
+          "agents": [
+            "Raze",
+            "Omen",
+            "Viper",
+            "Sova",
+            "Killjoy"
+          ],
+          "winRate": 51.5,
+          "note": "Double fumée pour sécuriser les rebords."
+        }
+      ],
+      "tips": [
+        "Attention aux chutes : pas de murs sur les bords de la carte.",
+        "Les cordes permettent des prises de site rapides.",
+        "Contrôler le Mid ouvre les deux sites."
+      ]
+    },
+    "breeze": {
+      "attackWin": 51.7,
+      "defenseWin": 48.3,
+      "playRate": 4.9,
+      "bestAgents": [
+        "Jett",
+        "Viper",
+        "Sova",
+        "Cypher",
+        "KAY/O"
+      ],
+      "inPool": false,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Jett",
+            "Viper",
+            "Sova",
+            "Cypher",
+            "KAY/O"
+          ],
+          "winRate": 52.4,
+          "note": "Viper est indispensable pour couper les grands espaces."
+        }
+      ],
+      "tips": [
+        "Carte très ouverte : l'Operator y est roi.",
+        "Le mur de Viper coupe A Hall et le Mid en même temps.",
+        "Les portes de B peuvent être fermées en défense."
+      ]
+    },
+    "icebox": {
+      "attackWin": 51.8,
+      "defenseWin": 48.2,
+      "playRate": 4.5,
+      "bestAgents": [
+        "Jett",
+        "Viper",
+        "Sova",
+        "Killjoy",
+        "KAY/O"
+      ],
+      "inPool": false,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Jett",
+            "Viper",
+            "Sova",
+            "Killjoy",
+            "KAY/O"
+          ],
+          "winRate": 53.2,
+          "note": "Viper indispensable pour le plant en B."
+        }
+      ],
+      "tips": [
+        "Les cordes du site A demandent un bon timing.",
+        "Le plant par défaut en B se joue avec le mur de Viper.",
+        "Le Mid tube permet des rotations très rapides."
+      ]
+    },
+    "split": {
+      "attackWin": 46,
+      "defenseWin": 54,
+      "playRate": 7.7,
+      "bestAgents": [
+        "Raze",
+        "Omen",
+        "Viper",
+        "Skye",
+        "Cypher"
+      ],
+      "inPool": false,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Raze",
+            "Omen",
+            "Viper",
+            "Skye",
+            "Cypher"
+          ],
+          "winRate": 54.1,
+          "note": "Raze nettoie Heaven et les recoins serrés."
+        }
+      ],
+      "tips": [
+        "Le contrôle de Mid Mail donne accès aux deux sites.",
+        "Les cordes permettent des remontées vers Heaven.",
+        "Jouez la défense sur les retakes plutôt que sur le site."
+      ]
+    },
+    "pearl": {
+      "attackWin": 52,
+      "defenseWin": 48,
+      "playRate": 4.1,
+      "bestAgents": [
+        "Jett",
+        "Fade",
+        "Astra",
+        "Killjoy",
+        "Breach"
+      ],
+      "inPool": false,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Jett",
+            "Fade",
+            "Astra",
+            "Killjoy",
+            "Breach"
+          ],
+          "winRate": 55.9,
+          "note": "Astra peut fumer les deux sites et le Mid."
+        }
+      ],
+      "tips": [
+        "B Long est très difficile à reprendre une fois perdu.",
+        "Le Mid à trois portes permet beaucoup de feintes.",
+        "Jouez la contre-utilité en retake."
+      ]
+    },
+    "fracture": {
+      "attackWin": 47.2,
+      "defenseWin": 52.8,
+      "playRate": 7.9,
+      "bestAgents": [
+        "Raze",
+        "Breach",
+        "Brimstone",
+        "Fade",
+        "Cypher"
+      ],
+      "inPool": false,
+      "comps": [
+        {
+          "name": "Standard",
+          "agents": [
+            "Raze",
+            "Breach",
+            "Brimstone",
+            "Fade",
+            "Cypher"
+          ],
+          "winRate": 53.7,
+          "note": "Prise en tenaille des deux côtés."
+        }
+      ],
+      "tips": [
+        "Les attaquants apparaissent des deux côtés : coordonnez les tenailles.",
+        "La tyrolienne permet des rotations rapides.",
+        "Les défenseurs doivent souvent reprendre plutôt que tenir."
+      ]
+    }
+  },
+  "rankDistribution": [
+    {
+      "rank": "Fer",
+      "percent": 7.6
+    },
+    {
+      "rank": "Bronze",
+      "percent": 15.3
+    },
+    {
+      "rank": "Argent",
+      "percent": 18.9
+    },
+    {
+      "rank": "Or",
+      "percent": 18.1
+    },
+    {
+      "rank": "Platine",
+      "percent": 15.4
+    },
+    {
+      "rank": "Diamant",
+      "percent": 11.8
+    },
+    {
+      "rank": "Ascendant",
+      "percent": 8.2
+    },
+    {
+      "rank": "Immortel",
+      "percent": 4.1
+    },
+    {
+      "rank": "Radiant",
+      "percent": 0.6
+    }
+  ],
+  "weaponTips": {
+    "classic": {
+      "situations": [
+        "Pistol round",
+        "Eco",
+        "Clic droit à bout portant"
+      ],
+      "tips": "Le clic droit tire une rafale de 3 balles dévastatrice au corps à corps."
+    },
+    "shorty": {
+      "situations": [
+        "Défense d'angle serré",
+        "Eco",
+        "Embuscade"
+      ],
+      "tips": "Combinez-le avec un fusil pour tenir un recoin en défense."
+    },
+    "frenzy": {
+      "situations": [
+        "Pistol round en défense",
+        "Courte portée"
+      ],
+      "tips": "Tirez en rafales courtes pour garder le contrôle du recul."
+    },
+    "ghost": {
+      "situations": [
+        "Pistol round",
+        "Eco",
+        "Moyenne distance"
+      ],
+      "tips": "Silencieux et précis : visez la tête en tir par tir."
+    },
+    "bandit": {
+      "situations": [
+        "Pistol round",
+        "Duel moyenne distance"
+      ],
+      "tips": "Une alternative précise au Ghost, efficace en tir rapide contrôlé."
+    },
+    "sheriff": {
+      "situations": [
+        "Eco",
+        "Force-buy",
+        "Joueurs précis"
+      ],
+      "tips": "Un tir à la tête tue jusqu'à 30 m, même contre un bouclier lourd."
+    },
+    "stinger": {
+      "situations": [
+        "Force-buy",
+        "Courte portée"
+      ],
+      "tips": "En visée, il tire en rafales de 4 : utile à moyenne distance."
+    },
+    "spectre": {
+      "situations": [
+        "Force-buy",
+        "Courte et moyenne portée",
+        "En mouvement"
+      ],
+      "tips": "Le meilleur rapport précision/mobilité des mitraillettes."
+    },
+    "bucky": {
+      "situations": [
+        "Défense de site serré",
+        "Eco"
+      ],
+      "tips": "Le clic droit tire une balle groupée à plus longue portée."
+    },
+    "judge": {
+      "situations": [
+        "Défense",
+        "Sites étroits",
+        "Retake"
+      ],
+      "tips": "Très efficace contre les entrées en groupe en défense."
+    },
+    "bulldog": {
+      "situations": [
+        "Demi-achat",
+        "Moyenne portée"
+      ],
+      "tips": "En visée, rafale de 3 balles très précise."
+    },
+    "guardian": {
+      "situations": [
+        "Demi-achat",
+        "Longue portée",
+        "Joueurs précis"
+      ],
+      "tips": "Tue en un tir à la tête à toute distance contre un bouclier léger."
+    },
+    "phantom": {
+      "situations": [
+        "Full-buy",
+        "Spam à travers les fumées",
+        "Courte à moyenne portée"
+      ],
+      "tips": "Pas de traceurs : idéal pour tirer à travers les fumées sans se révéler."
+    },
+    "vandal": {
+      "situations": [
+        "Full-buy",
+        "Toute distance",
+        "One-tap"
+      ],
+      "tips": "160 dégâts à la tête sans chute : un tir suffit à toute portée."
+    },
+    "marshal": {
+      "situations": [
+        "Eco",
+        "Rounds bonus",
+        "Longues lignes"
+      ],
+      "tips": "Rapide à équiper, parfait pour tenir une ligne en eco."
+    },
+    "outlaw": {
+      "situations": [
+        "Demi-achat",
+        "Longues lignes"
+      ],
+      "tips": "Deux tirs rapides : un one-shot au corps à courte portée."
+    },
+    "operator": {
+      "situations": [
+        "Full-buy",
+        "Longues lignes",
+        "Défense de site"
+      ],
+      "tips": "Un tir au corps tue : prenez des angles larges puis reculez."
+    },
+    "ares": {
+      "situations": [
+        "Spam à travers les murs",
+        "Défense"
+      ],
+      "tips": "La cadence augmente avec la durée du tir."
+    },
+    "odin": {
+      "situations": [
+        "Spam à travers les murs",
+        "Tenir un chokepoint"
+      ],
+      "tips": "Pénétration élevée : arrosez les murs fins."
+    }
+  }
+}

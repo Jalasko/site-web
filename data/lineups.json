@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ascent-sova-1",
+    "map": "ascent",
+    "agent": "Sova",
+    "side": "Attaque",
+    "site": "A",
+    "ability": "Flèche de reconnaissance",
+    "title": "Recon A depuis A Main",
+    "description": "Alignez-vous contre la caisse d’A Main, visez le haut du toit et chargez 1 rebond : la flèche révèle Heaven et Arbre."
+  },
+  {
+    "id": "ascent-killjoy-2",
+    "map": "ascent",
+    "agent": "Killjoy",
+    "side": "Défense",
+    "site": "B",
+    "ability": "Nanoessaim",
+    "title": "Nanoessaim post-plant B",
+    "description": "Lancez depuis B Market en visant le coin de la fenêtre : couvre le plant par défaut."
+  },
+  {
+    "id": "ascent-omen-3",
+    "map": "ascent",
+    "agent": "Omen",
+    "side": "Attaque",
+    "site": "A",
+    "ability": "Voile sombre",
+    "title": "Fumées A Heaven et Arbre",
+    "description": "Depuis A Lobby, placez les fumées sur Heaven et l’entrée Arbre pour une exécution sûre."
+  },
+  {
+    "id": "bind-viper-4",
+    "map": "bind",
+    "agent": "Viper",
+    "side": "Attaque",
+    "site": "B",
+    "ability": "Mur toxique",
+    "title": "Mur de Viper B Long",
+    "description": "Depuis B Long, alignez le réticule avec le néon jaune : le mur coupe Hall et Elbow."
+  },
+  {
+    "id": "bind-brimstone-5",
+    "map": "bind",
+    "agent": "Brimstone",
+    "side": "Attaque",
+    "site": "A",
+    "ability": "Incendiaire",
+    "title": "Molly post-plant A",
+    "description": "Depuis Showers, visez la lampe au-dessus de la porte : la molly tombe sur le plant par défaut."
+  },
+  {
+    "id": "bind-cypher-6",
+    "map": "bind",
+    "agent": "Cypher",
+    "side": "Défense",
+    "site": "A",
+    "ability": "Fil de détente",
+    "title": "Fil Hookah",
+    "description": "Placez le fil au ras du sol en sortie de Hookah pour bloquer les entrées."
+  },
+  {
+    "id": "haven-sova-7",
+    "map": "haven",
+    "agent": "Sova",
+    "side": "Attaque",
+    "site": "C",
+    "ability": "Flèche de reconnaissance",
+    "title": "Recon C Long",
+    "description": "Depuis C Long, visez la poutre en haut à gauche, 1 rebond : couvre C Site et Garage."
+  },
+  {
+    "id": "haven-breach-8",
+    "map": "haven",
+    "agent": "Breach",
+    "side": "Attaque",
+    "site": "A",
+    "ability": "Secousse sismique",
+    "title": "Stun A Long",
+    "description": "Placez le stun contre le mur d’A Long pour étourdir les défenseurs sur Short et Long."
+  },
+  {
+    "id": "lotus-viper-9",
+    "map": "lotus",
+    "agent": "Viper",
+    "side": "Attaque",
+    "site": "A",
+    "ability": "Mur toxique",
+    "title": "Mur A Main",
+    "description": "Visez la colonne du Rubble : le mur coupe Tree et la vue depuis Stairs."
+  },
+  {
+    "id": "lotus-fade-10",
+    "map": "lotus",
+    "agent": "Fade",
+    "side": "Attaque",
+    "site": "C",
+    "ability": "Rôdeur",
+    "title": "Prowler C Mound",
+    "description": "Lancez le rôdeur depuis C Main vers Mound pour nettoyer les recoins."
+  },
+  {
+    "id": "sunset-cypher-11",
+    "map": "sunset",
+    "agent": "Cypher",
+    "side": "Défense",
+    "site": "B",
+    "ability": "Cage cybernétique",
+    "title": "Cage B Main",
+    "description": "Placez la cage au-dessus de la porte pour couper la vision d’entrée."
+  },
+  {
+    "id": "sunset-breach-12",
+    "map": "sunset",
+    "agent": "Breach",
+    "side": "Attaque",
+    "site": "Mid",
+    "ability": "Ligne de faille",
+    "title": "Fault Line Mid",
+    "description": "Depuis Mid Top, visez Courtyard pour étourdir les défenseurs du Mid."
+  },
+  {
+    "id": "corrode-sova-13",
+    "map": "corrode",
+    "agent": "Sova",
+    "side": "Attaque",
+    "site": "A",
+    "ability": "Flèche de reconnaissance",
+    "title": "Recon A Site",
+    "description": "Depuis A Main, visez le haut de la tour, 2 rebonds : couvre tout le site."
+  },
+  {
+    "id": "corrode-vyse-14",
+    "map": "corrode",
+    "agent": "Vyse",
+    "side": "Défense",
+    "site": "B",
+    "ability": "Fleur d’acier",
+    "title": "Ralentissement B Main",
+    "description": "Placez la plante dans le coin gauche de B Main pour gêner les entrées."
+  },
+  {
+    "id": "abyss-astra-15",
+    "map": "abyss",
+    "agent": "Astra",
+    "side": "Attaque",
+    "site": "A",
+    "ability": "Nébuleuse",
+    "title": "Fumées A depuis le spawn",
+    "description": "Placez deux étoiles sur A Tower et A Danger depuis la carte globale avant le début du round."
+  },
+  {
+    "id": "abyss-gekko-16",
+    "map": "abyss",
+    "agent": "Gekko",
+    "side": "Attaque",
+    "site": "B",
+    "ability": "Wingman",
+    "title": "Plant Wingman B",
+    "description": "Envoyez Wingman planter derrière la caisse du site B pour sécuriser le spike."
+  }
+]

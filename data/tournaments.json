@@ -1,0 +1,515 @@
+[
+  {
+    "slug": "champions-2026",
+    "name": "VALORANT Champions 2026",
+    "tier": "Champions",
+    "region": "International",
+    "location": "Shanghai, Chine",
+    "start": "2026-09-25",
+    "end": "2026-10-25",
+    "prizePool": "2 250 000 $",
+    "status": "en cours",
+    "teams": [
+      "nrg",
+      "fnatic",
+      "paper-rex",
+      "edward-gaming",
+      "g2-esports",
+      "team-heretics",
+      "gen-g",
+      "t1",
+      "sentinels",
+      "mibr",
+      "bilibili-gaming",
+      "team-vitality"
+    ],
+    "bracket": [
+      {
+        "name": "Quarts de finale",
+        "matches": [
+          {
+            "teamA": "nrg",
+            "teamB": "gen-g",
+            "scoreA": 2,
+            "scoreB": 1
+          },
+          {
+            "teamA": "paper-rex",
+            "teamB": "team-heretics",
+            "scoreA": 2,
+            "scoreB": 0
+          },
+          {
+            "teamA": "fnatic",
+            "teamB": "g2-esports",
+            "scoreA": 1,
+            "scoreB": 2
+          },
+          {
+            "teamA": "edward-gaming",
+            "teamB": "t1"
+          }
+        ]
+      },
+      {
+        "name": "Demi-finales",
+        "matches": [
+          {
+            "teamA": "nrg",
+            "teamB": "paper-rex"
+          },
+          {
+            "teamA": "g2-esports",
+            "teamB": "TBD"
+          }
+        ]
+      },
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "TBD",
+            "teamB": "TBD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "masters-london-2026",
+    "name": "VCT Masters London",
+    "tier": "Masters",
+    "region": "International",
+    "location": "Londres, Royaume-Uni",
+    "start": "2026-06-06",
+    "end": "2026-06-21",
+    "prizePool": "1 000 000 $",
+    "status": "terminé",
+    "winner": "fnatic",
+    "teams": [
+      "fnatic",
+      "paper-rex",
+      "nrg",
+      "g2-esports",
+      "edward-gaming",
+      "team-heretics",
+      "gen-g",
+      "mibr"
+    ],
+    "bracket": [
+      {
+        "name": "Quarts de finale",
+        "matches": [
+          {
+            "teamA": "fnatic",
+            "teamB": "mibr",
+            "scoreA": 2,
+            "scoreB": 0
+          },
+          {
+            "teamA": "g2-esports",
+            "teamB": "gen-g",
+            "scoreA": 2,
+            "scoreB": 1
+          },
+          {
+            "teamA": "paper-rex",
+            "teamB": "team-heretics",
+            "scoreA": 2,
+            "scoreB": 1
+          },
+          {
+            "teamA": "nrg",
+            "teamB": "edward-gaming",
+            "scoreA": 1,
+            "scoreB": 2
+          }
+        ]
+      },
+      {
+        "name": "Demi-finales",
+        "matches": [
+          {
+            "teamA": "fnatic",
+            "teamB": "g2-esports",
+            "scoreA": 2,
+            "scoreB": 1
+          },
+          {
+            "teamA": "paper-rex",
+            "teamB": "edward-gaming",
+            "scoreA": 2,
+            "scoreB": 0
+          }
+        ]
+      },
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "fnatic",
+            "teamB": "paper-rex",
+            "scoreA": 3,
+            "scoreB": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "masters-santiago-2026",
+    "name": "VCT Masters Santiago",
+    "tier": "Masters",
+    "region": "International",
+    "location": "Santiago, Chili",
+    "start": "2026-02-28",
+    "end": "2026-03-15",
+    "prizePool": "1 000 000 $",
+    "status": "terminé",
+    "winner": "nrg",
+    "teams": [
+      "nrg",
+      "t1",
+      "team-heretics",
+      "paper-rex",
+      "g2-esports",
+      "edward-gaming",
+      "fnatic",
+      "bilibili-gaming"
+    ],
+    "bracket": [
+      {
+        "name": "Quarts de finale",
+        "matches": [
+          {
+            "teamA": "nrg",
+            "teamB": "bilibili-gaming",
+            "scoreA": 2,
+            "scoreB": 0
+          },
+          {
+            "teamA": "team-heretics",
+            "teamB": "fnatic",
+            "scoreA": 2,
+            "scoreB": 1
+          },
+          {
+            "teamA": "t1",
+            "teamB": "edward-gaming",
+            "scoreA": 2,
+            "scoreB": 1
+          },
+          {
+            "teamA": "paper-rex",
+            "teamB": "g2-esports",
+            "scoreA": 2,
+            "scoreB": 0
+          }
+        ]
+      },
+      {
+        "name": "Demi-finales",
+        "matches": [
+          {
+            "teamA": "nrg",
+            "teamB": "team-heretics",
+            "scoreA": 2,
+            "scoreB": 1
+          },
+          {
+            "teamA": "t1",
+            "teamB": "paper-rex",
+            "scoreA": 2,
+            "scoreB": 1
+          }
+        ]
+      },
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "nrg",
+            "teamB": "t1",
+            "scoreA": 3,
+            "scoreB": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "vct-emea-2026-stage-2",
+    "name": "VCT EMEA 2026 — Stage 2",
+    "tier": "VCT Ligue",
+    "region": "EMEA",
+    "location": "Berlin, Allemagne",
+    "start": "2026-07-15",
+    "end": "2026-08-31",
+    "prizePool": "250 000 $",
+    "status": "terminé",
+    "winner": "fnatic",
+    "teams": [
+      "fnatic",
+      "team-heretics",
+      "team-vitality",
+      "karmine-corp"
+    ],
+    "bracket": [
+      {
+        "name": "Demi-finales",
+        "matches": [
+          {
+            "teamA": "fnatic",
+            "teamB": "karmine-corp",
+            "scoreA": 2,
+            "scoreB": 0
+          },
+          {
+            "teamA": "team-heretics",
+            "teamB": "team-vitality",
+            "scoreA": 2,
+            "scoreB": 1
+          }
+        ]
+      },
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "fnatic",
+            "teamB": "team-heretics",
+            "scoreA": 3,
+            "scoreB": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "vct-americas-2026-stage-2",
+    "name": "VCT Americas 2026 — Stage 2",
+    "tier": "VCT Ligue",
+    "region": "Americas",
+    "location": "Los Angeles, États-Unis",
+    "start": "2026-07-15",
+    "end": "2026-08-31",
+    "prizePool": "250 000 $",
+    "status": "terminé",
+    "winner": "nrg",
+    "teams": [
+      "nrg",
+      "g2-esports",
+      "sentinels",
+      "mibr",
+      "loud"
+    ],
+    "bracket": [
+      {
+        "name": "Demi-finales",
+        "matches": [
+          {
+            "teamA": "nrg",
+            "teamB": "mibr",
+            "scoreA": 2,
+            "scoreB": 1
+          },
+          {
+            "teamA": "g2-esports",
+            "teamB": "sentinels",
+            "scoreA": 2,
+            "scoreB": 0
+          }
+        ]
+      },
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "nrg",
+            "teamB": "g2-esports",
+            "scoreA": 3,
+            "scoreB": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "vct-pacific-2026-stage-2",
+    "name": "VCT Pacific 2026 — Stage 2",
+    "tier": "VCT Ligue",
+    "region": "Pacific",
+    "location": "Séoul, Corée du Sud",
+    "start": "2026-07-15",
+    "end": "2026-08-31",
+    "prizePool": "250 000 $",
+    "status": "terminé",
+    "winner": "paper-rex",
+    "teams": [
+      "paper-rex",
+      "gen-g",
+      "t1",
+      "drx"
+    ],
+    "bracket": [
+      {
+        "name": "Demi-finales",
+        "matches": [
+          {
+            "teamA": "paper-rex",
+            "teamB": "drx",
+            "scoreA": 2,
+            "scoreB": 0
+          },
+          {
+            "teamA": "gen-g",
+            "teamB": "t1",
+            "scoreA": 2,
+            "scoreB": 1
+          }
+        ]
+      },
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "paper-rex",
+            "teamB": "gen-g",
+            "scoreA": 3,
+            "scoreB": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "vct-china-2026-stage-2",
+    "name": "VCT China 2026 — Stage 2",
+    "tier": "VCT Ligue",
+    "region": "China",
+    "location": "Shanghai, Chine",
+    "start": "2026-07-15",
+    "end": "2026-08-31",
+    "prizePool": "250 000 $",
+    "status": "terminé",
+    "winner": "edward-gaming",
+    "teams": [
+      "edward-gaming",
+      "bilibili-gaming",
+      "trace-esports"
+    ],
+    "bracket": [
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "edward-gaming",
+            "teamB": "bilibili-gaming",
+            "scoreA": 3,
+            "scoreB": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "champions-paris-2025",
+    "name": "VALORANT Champions Paris",
+    "tier": "Champions",
+    "region": "International",
+    "location": "Paris, France",
+    "start": "2025-09-12",
+    "end": "2025-10-05",
+    "prizePool": "2 250 000 $",
+    "status": "terminé",
+    "winner": "nrg",
+    "teams": [
+      "nrg",
+      "fnatic",
+      "paper-rex",
+      "team-heretics",
+      "g2-esports",
+      "mibr",
+      "gen-g",
+      "t1"
+    ],
+    "bracket": [
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "nrg",
+            "teamB": "fnatic",
+            "scoreA": 3,
+            "scoreB": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "masters-toronto-2025",
+    "name": "VCT Masters Toronto",
+    "tier": "Masters",
+    "region": "International",
+    "location": "Toronto, Canada",
+    "start": "2025-06-07",
+    "end": "2025-06-22",
+    "prizePool": "1 000 000 $",
+    "status": "terminé",
+    "winner": "paper-rex",
+    "teams": [
+      "paper-rex",
+      "fnatic",
+      "g2-esports",
+      "sentinels",
+      "team-heretics",
+      "gen-g"
+    ],
+    "bracket": [
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "paper-rex",
+            "teamB": "fnatic",
+            "scoreA": 3,
+            "scoreB": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "masters-bangkok-2025",
+    "name": "VCT Masters Bangkok",
+    "tier": "Masters",
+    "region": "International",
+    "location": "Bangkok, Thaïlande",
+    "start": "2025-02-20",
+    "end": "2025-03-02",
+    "prizePool": "500 000 $",
+    "status": "terminé",
+    "winner": "t1",
+    "teams": [
+      "t1",
+      "g2-esports",
+      "edward-gaming",
+      "team-vitality",
+      "sentinels"
+    ],
+    "bracket": [
+      {
+        "name": "Grande finale",
+        "matches": [
+          {
+            "teamA": "t1",
+            "teamB": "g2-esports",
+            "scoreA": 3,
+            "scoreB": 2
+          }
+        ]
+      }
+    ]
+  }
+]
