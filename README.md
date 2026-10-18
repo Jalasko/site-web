@@ -1,8 +1,8 @@
-# ValoDex
+# ValoStats
 
 Hub d'informations fan-made sur **VALORANT**, entièrement en français : joueurs pro, armes, agents, cartes, esport, méta, guides et patch notes.
 
-> ValoDex n'est pas affilié à Riot Games. VALORANT et Riot Games sont des marques déposées de Riot Games, Inc.
+> ValoStats n'est pas affilié à Riot Games. VALORANT et Riot Games sont des marques déposées de Riot Games, Inc.
 
 ## Stack
 

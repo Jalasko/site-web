@@ -27,8 +27,8 @@ interface FavCtx {
 const FavoritesContext = createContext<FavCtx>({ favorites: [], isFavorite: () => false, toggleFavorite: () => {}, ready: false });
 export const useFavorites = () => useContext(FavoritesContext);
 
-const FAV_KEY = "valodex-favoris";
-const THEME_KEY = "valodex-theme";
+const FAV_KEY = "valostats-favoris";
+const THEME_KEY = "valostats-theme";
 
 function safeGet(key: string) {
   try {
@@ -96,5 +96,8 @@ export function Providers({ children }: { children: React.ReactNode }) {
   );
 }
 
-/** Script inline exécuté avant le rendu pour éviter le flash de thème. */
-export const themeInitScript = `(function(){try{var t=localStorage.getItem('${THEME_KEY}');if(t==='light'){document.documentElement.classList.remove('dark')}}catch(e){}})();`;
+/**
+ * Script inline exécuté avant le rendu pour éviter le flash de thème.
+ * Il récupère aussi les préférences enregistrées sous l'ancien nom du site (ValoDex).
+ */
+export const themeInitScript = `(function(){try{[['valodex-theme','${THEME_KEY}'],['valodex-favoris','${FAV_KEY}']].forEach(function(k){var v=localStorage.getItem(k[0]);if(v!==null){if(localStorage.getItem(k[1])===null){localStorage.setItem(k[1],v)}localStorage.removeItem(k[0])}});var t=localStorage.getItem('${THEME_KEY}');if(t==='light'){document.documentElement.classList.remove('dark')}}catch(e){}})();`;

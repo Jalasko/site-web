@@ -60,10 +60,10 @@ export function Navbar() {
         )}
       >
         <nav className="container-x flex h-16 items-center gap-4" aria-label="Navigation principale">
-          <Link href="/" className="flex items-center gap-2" aria-label="ValoDex — accueil">
+          <Link href="/" className="flex items-center gap-2" aria-label="ValoStats — accueil">
             <LogoMark />
             <span className="h-display text-2xl">
-              Valo<span className="text-accent">Dex</span>
+              Valo<span className="text-accent">Stats</span>
             </span>
           </Link>
 

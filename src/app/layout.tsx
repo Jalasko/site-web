@@ -12,11 +12,11 @@ const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: { default: "ValoDex — Le hub VALORANT : joueurs pro, agents, armes, cartes & esport", template: "%s · ValoDex" },
+  title: { default: "ValoStats — Le hub VALORANT : joueurs pro, agents, armes, cartes & esport", template: "%s · ValoStats" },
   description:
-    "ValoDex est le hub d'informations le plus complet sur VALORANT : statistiques des joueurs pro, agents, armes, cartes, tier lists, compositions, esport VCT et patch notes.",
+    "ValoStats est le hub d'informations le plus complet sur VALORANT : statistiques des joueurs pro, agents, armes, cartes, tier lists, compositions, esport VCT et patch notes.",
   keywords: ["VALORANT", "joueurs pro", "tier list", "agents", "armes", "cartes", "VCT", "esport", "méta", "réticule", "crosshair"],
-  openGraph: { type: "website", locale: "fr_FR", siteName: "ValoDex" },
+  openGraph: { type: "website", locale: "fr_FR", siteName: "ValoStats" },
   twitter: { card: "summary_large_image" },
   robots: { index: true, follow: true },
 };

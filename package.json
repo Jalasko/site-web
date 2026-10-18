@@ -1,8 +1,8 @@
 {
-  "name": "valodex",
+  "name": "valostats",
   "version": "1.0.0",
   "private": true,
-  "description": "ValoDex — le hub d'informations fan-made sur VALORANT : joueurs pro, armes, agents, cartes, esport et méta.",
+  "description": "ValoStats — le hub d'informations fan-made sur VALORANT : joueurs pro, armes, agents, cartes, esport et méta.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

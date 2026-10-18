@@ -16,7 +16,7 @@ export function Footer() {
           <Link href="/" className="flex items-center gap-2">
             <LogoMark />
             <span className="h-display text-2xl">
-              Valo<span className="text-accent">Dex</span>
+              Valo<span className="text-accent">Stats</span>
             </span>
           </Link>
           <p className="mt-3 text-sm text-muted">Le hub d&apos;informations fan-made sur VALORANT : joueurs pro, armes, agents, cartes, esport et méta.</p>
@@ -38,7 +38,7 @@ export function Footer() {
       </div>
       <div className="border-t border-line">
         <div className="container-x flex flex-col gap-2 py-6 text-xs text-muted md:flex-row md:items-center md:justify-between">
-          <p>ValoDex n&apos;est pas affilié à Riot Games. VALORANT et Riot Games sont des marques déposées de Riot Games, Inc.</p>
+          <p>ValoStats n&apos;est pas affilié à Riot Games. VALORANT et Riot Games sont des marques déposées de Riot Games, Inc.</p>
           <p>
             Données de jeu : <a className="underline hover:text-accent" href="https://valorant-api.com" target="_blank" rel="noopener noreferrer">valorant-api.com</a> ·{" "}
             <Link href="/admin" className="underline hover:text-accent">Admin</Link>

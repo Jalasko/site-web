@@ -8,7 +8,7 @@ type Data = Record<string, unknown> & { players: Player[]; teams: Team[] };
 type Tab = "players" | "teams" | "json";
 const JSON_COLLECTIONS = ["matches", "tournaments", "meta", "patches", "lineups", "site", "agent-costs"] as const;
 const ROLES: Role[] = ["Duelliste", "Initiateur", "Contrôleur", "Sentinelle", "Flex"];
-const TOKEN_KEY = "valodex-admin-token";
+const TOKEN_KEY = "valostats-admin-token";
 
 const emptyPlayer = (): Player => ({
   slug: "", ign: "", realName: "", country: "FR", team: "", role: "Duelliste", mainAgents: [],
